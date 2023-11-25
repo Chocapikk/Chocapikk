@@ -24,7 +24,7 @@ Hi there! I'm Valentin Lobstein, a pentester and cybersecurity student at Oteria
 ## 🧰 Skills & Languages
 
 - **Primary Language:** Python 🐍
-- **Secondary Languages:** Lua, PHP, and C
+- **Secondary Languages:** Lua, PHP, Ruby and C
 - **Hacking Tools:** Metasploit, Burp Suite, Wireshark, Nmap, My Own Exploits
 - **Operating Systems:** Windows, Linux (Mint, Kali, Manjaro)
 - **Version Control:** Git & GitHub
