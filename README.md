@@ -72,6 +72,8 @@ In addition to CVE contributions, I've been actively involved in exploit develop
 
 - **Extensive VC Addons for WPBakery Page Builder < 1.9.1 Unauthenticated RCE**: Reported a vulnerability that escalates from LFI to RCE, with a PoC provided to WPScan. Recognition for the report and escalation to RCE can be found on [WPScan](https://wpscan.com/vulnerability/239ea870-66e5-4754-952e-74d4dd60b809/).
 
+- **CVE-2024-25600 PoC Reproduction**: Not the initial researcher but publicly reproduced the proof-of-concept based on snicco's research. This PoC demonstrates an unauthenticated remote code execution vulnerability in Bricks Builder for WordPress. For more details and the PoC code, see the GitHub [repository](https://github.com/Chocapikk/CVE-2024-25600). For a visual representation of the exploit, refer to win3zz's Twitter [post](https://twitter.com/win3zz/status/1760328659208974363).
+
 ## 📬 Get in Touch
 
 Feel free to connect with me on social media or send me an email:
