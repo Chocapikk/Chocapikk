@@ -14,6 +14,7 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 
 Hi there! I'm Valentin Lobstein, a pentester and cybersecurity student at Oteria Cyber School. I'm passionate about ethical hacking, vulnerability research, and software development. I love sharing my knowledge and contributing to the cybersecurity community through my GitHub repositories. 🌐💡
 
+<a href='https://ko-fi.com/Chocapikk' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 <a href="https://github.com/Chocapikk" target="_blank">
   <img src="https://img.shields.io/github/followers/Chocapikk?style=social" alt="GitHub followers">
 </a>
@@ -23,7 +24,7 @@ Hi there! I'm Valentin Lobstein, a pentester and cybersecurity student at Oteria
 <a href="https://instagram.com/ch0c4p1kk" target="_blank">
   <img src="https://img.shields.io/badge/Follow %40ch0c4p1kk-%23E4405F?style=social&logo=instagram" alt="Instagram Follow">
 </a>
-
+ 
 ## 🧰 Skills & Languages
 
 - **Primary Language:** Python 🐍
