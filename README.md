@@ -91,7 +91,7 @@ I have contributed to identifying and documenting several CVEs. Here's a list of
 | CVE ID | Description | Link |
 |--------|-------------|------|
 | 🔒 **CVE-2023-50917** | Remote Code Execution in MajorDoMo. | [GitHub](https://github.com/Chocapikk/CVE-2023-50917) |
-| 🔒 **CVE-2024-22899 to CVE-2024-22903** | Exploit chain in Vinchin Backup & Recovery. | [GitHub](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain) |
+| 🔒 **CVE-2024-22899 to CVE-2024-22903, CVE-2024-25228** | Exploit chain in Vinchin Backup & Recovery. | [GitHub](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain) |
 | 🔒 **CVE-2024-30920 to CVE-2024-30929, CVE-2024-31818** | Research and exploitation in DerbyNet. | [GitHub](https://github.com/Chocapikk/derbynet-research) |
 | 🔒 **CVE-2024-31819** | Unauthenticated RCE in WWBN AVideo via `systemRootPath`. | [GitHub](https://github.com/Chocapikk/CVE-2024-31819) |
 
