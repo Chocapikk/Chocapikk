@@ -83,6 +83,7 @@ Below is a list of Hall of Fame acknowledgments where my contributions to cybers
 |---------|--------------|------|
 | ![Ferrari](https://img.shields.io/badge/-Ferrari-red?style=plastic&logo=ferrari&logoColor=white) | [Ferrari Hall of Fame](https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme) | 2023 |
 | ![Siemens](https://img.shields.io/badge/-Siemens-blue?style=plastic&logo=siemens&logoColor=white) | [Siemens Hall of Thanks](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) | 2024 |
+| ![Philips](https://img.shields.io/badge/-Philips-blue?style=plastic&logo=philips&logoColor=white) | [Philips Hall of Honors](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html) | 2024 |
 
 ### 🚨 CVE Contributions
 
