@@ -95,6 +95,8 @@ I have contributed to identifying and documenting several CVEs. Here's a list of
 | 🔒 **CVE-2024-22899 to CVE-2024-22903, CVE-2024-25228** | Exploit chain in Vinchin Backup & Recovery. | [GitHub](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain) |
 | 🔒 **CVE-2024-30920 to CVE-2024-30929, CVE-2024-31818** | Research and exploitation in DerbyNet. | [GitHub](https://github.com/Chocapikk/derbynet-research) |
 | 🔒 **CVE-2024-31819** | Unauthenticated RCE in WWBN AVideo via `systemRootPath`. | [GitHub](https://github.com/Chocapikk/CVE-2024-31819) |
+| 🔒 **CVE-2024-3032** | Themify Builder < 7.5.8 - Open Redirect | [WPScan](https://wpscan.com/vulnerability/d130a60c-c36b-4994-9b0e-e52cd7f99387/) |
+
 
 #### Additionally, I serve as a moderator and hunter at LeakIX, contributing to the discovery and responsible disclosure of vulnerabilities
 
@@ -107,7 +109,7 @@ In addition to CVE contributions, I've been actively involved in exploit develop
 | 🔒 WordPress Backup & Migration 1.3.7 RCE | Reproduced the exploit. | [Packet Storm](https://packetstormsecurity.com/files/176638/WordPress-Backup-Migration-1.3.7-Remote-Command-Execution.html) |
 | 🔒 Vinchin Backup And Recovery Command Injection (CVE-2023-45498, CVE-2023-45499) | Created a Metasploit module. | [Packet Storm](https://packetstormsecurity.com/files/176289/Vinchin-Backup-And-Recovery-Command-Injection.html) |
 | 🔒 MajorDoMo Command Injection (CVE-2023-50917) | Developed a Metasploit module. | [Packet Storm](https://packetstormsecurity.com/files/176669/MajorDoMo-Command-Injection.html) |
-|Splunk XSLT Upload RCE (CVE-2023-46214) | Authored a Metasploit module. | [Packet Storm](https://packetstormsecurity.com/files/176154/Splunk-XSLT-Upload-Remote-Code-Execution.html) |
+| 🔒 Splunk XSLT Upload RCE (CVE-2023-46214) | Authored a Metasploit module. | [Packet Storm](https://packetstormsecurity.com/files/176154/Splunk-XSLT-Upload-Remote-Code-Execution.html) |
 | 🔒 WordPress Royal Elementor Addons And Templates Remote Shell Upload (CVE-2023-5360) | Created a Metasploit module. | [Packet Storm](https://packetstormsecurity.com/files/175992/WordPress-Royal-Elementor-Addons-And-Templates-Remote-Shell-Upload.html) |
 | 🔒 Extensive VC Addons for WPBakery Page Builder < 1.9.1 Unauthenticated RCE | Reported LFI to RCE escalation. | [WPScan](https://wpscan.com/vulnerability/239ea870-66e5-4754-952e-74d4dd60b809/) |
 | 🔒 CVE-2024-25600 PoC Reproduction | Reproduced PoC based on snicco's research. | [GitHub](https://github.com/Chocapikk/CVE-2024-25600) |
