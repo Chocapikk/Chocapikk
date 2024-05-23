@@ -112,7 +112,9 @@ In addition to CVE contributions, I've been actively involved in exploit develop
 | 🔒 Splunk XSLT Upload RCE (CVE-2023-46214) | Authored a Metasploit module. | [Packet Storm](https://packetstormsecurity.com/files/176154/Splunk-XSLT-Upload-Remote-Code-Execution.html) |
 | 🔒 WordPress Royal Elementor Addons And Templates Remote Shell Upload (CVE-2023-5360) | Created a Metasploit module. | [Packet Storm](https://packetstormsecurity.com/files/175992/WordPress-Royal-Elementor-Addons-And-Templates-Remote-Shell-Upload.html) |
 | 🔒 Extensive VC Addons for WPBakery Page Builder < 1.9.1 Unauthenticated RCE | Reported LFI to RCE escalation. | [WPScan](https://wpscan.com/vulnerability/239ea870-66e5-4754-952e-74d4dd60b809/) |
-| 🔒 CVE-2024-25600 PoC Reproduction | Reproduced PoC based on snicco's research. | [GitHub](https://github.com/Chocapikk/CVE-2024-25600) |
+| 🔒 Bricks Builder Theme 1.9.6 Remote Code Execution (CVE-2024-25600) PoC Reproduction | Reproduced PoC based on snicco's research and developed a Metasploit module. | [GitHub](https://github.com/Chocapikk/CVE-2024-25600)<br>[Packet Storm](https://packetstormsecurity.com/files/177801/WordPress-Bricks-Builder-Theme-1.9.6-Remote-Code-Execution.html) |
+| 🔒 Unauthenticated RCE in WWBN AVideo (CVE-2024-31819) | Developed a Metasploit module. | [Packet Storm](https://packetstormsecurity.com/files/178659/AVideo-WWBNIndex-Plugin-Unauthenticated-Remote-Code-Execution.html) |
+
 
 </br>
 
