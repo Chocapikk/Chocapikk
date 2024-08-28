@@ -137,8 +137,8 @@ In addition to CVE contributions, I’ve been actively involved in developing ex
 
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px;">
 
-- **🔒 WordPress Backup & Migration 1.3.7 RCE**  
-  *Reproduced the exploit* - [Packet Storm](https://packetstormsecurity.com/files/176638/WordPress-Backup-Migration-1.3.7-Remote-Command-Execution.html)
+- **🔒 WordPress Backup & Migration 1.3.7 RCE (CVE-2023-6553)**  
+  *Reproduced and co-authored the Metasploit module* - [Packet Storm](https://packetstormsecurity.com/files/176638/WordPress-Backup-Migration-1.3.7-Remote-Command-Execution.html)
 
 - **🔒 Vinchin Backup And Recovery Command Injection (CVE-2023-45498, CVE-2023-45499)**  
   *Created a Metasploit module* - [Packet Storm](https://packetstormsecurity.com/files/176289/Vinchin-Backup-And-Recovery-Command-Injection.html)
@@ -152,7 +152,7 @@ In addition to CVE contributions, I’ve been actively involved in developing ex
 - **🔒 WordPress Royal Elementor Addons And Templates Remote Shell Upload (CVE-2023-5360)**  
   *Created a Metasploit module* - [Packet Storm](https://packetstormsecurity.com/files/175992/WordPress-Royal-Elementor-Addons-And-Templates-Remote-Shell-Upload.html)
 
-- **🔒 Extensive VC Addons for WPBakery Page Builder < 1.9.1 Unauthenticated RCE**  
+- **🔒 Extensive VC Addons for WPBakery Page Builder < 1.9.1 Unauthenticated RCE (CVE-2023-0159)**  
   *Reported LFI to RCE escalation* - [WPScan](https://wpscan.com/vulnerability/239ea870-66e5-4754-952e-74d4dd60b809/)
 
 - **🔒 Bricks Builder Theme 1.9.6 Remote Code Execution (CVE-2024-25600) PoC Reproduction**  
