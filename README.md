@@ -172,6 +172,9 @@ In addition to CVE contributions, I’ve been actively involved in developing ex
 - **🔒 SPIP 4.2.12 Remote Code Execution (CVE-2024-7954)**  
   *Developed a Metasploit module* - [Packet Storm](https://packetstormsecurity.com/files/180333/SPIP-4.2.12-Remote-Code-Execution.html)
 
+- **🔒 SPIP BigUp 4.3.1 / 4.2.15 / 4.1.17 Unauthenticated Remote Code Execution**  
+  *Developed a Metasploit module* - [Packet Storm](https://packetstormsecurity.com/files/181499/SPIP-BigUp-4.3.1-4.2.15-4.1.17-Unauthenticated-Remote-Code-Execution.html)
+
 </div>
 
 
