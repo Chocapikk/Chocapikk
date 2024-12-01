@@ -205,10 +205,6 @@ In addition to CVE contributions, I’ve been actively involved in developing ex
   <img src="https://profile-counter.glitch.me/Chocapikk/count.svg" alt="Visitors">
 </p>
 
-<p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/Chocapikk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
-</p>
-
 ## 🎶 Spotify 🎧
 
 <p align="center">
