@@ -21,51 +21,183 @@ Hi there! I'm Valentin Lobstein, a pentester and cybersecurity student at Oteria
 
 [![ko-fi](https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0)](https://ko-fi.com/Chocapikk)
 
-<p align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-l1337/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ch0c4p1kk/)
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/Chocapikk_)
-[![Protonmail](https://img.shields.io/badge/Protonmail-%23640c8a.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:balgogan@protonmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%230b0557.svg?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Chocapik)
-[![RootMe](https://img.shields.io/badge/RootMe-%2313ad05.svg?&style=for-the-badge&logo=rootme&logoColor=white)](https://root-me.org/Chocapikk)
-[![OnlyFans](https://img.shields.io/badge/OnlyFans-%231877F2.svg?&style=for-the-badge&logo=onlyfans&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<p align="center" style="display:flex; gap:10px; justify-content:center; align-items:center;">
+  <a href="https://www.linkedin.com/in/valentin-l1337/" target="_blank" rel="noreferrer"
+     style="
+       display:inline-block;
+       width:40px;
+       height:40px;
+       background-color:#0A66C2; 
+       -webkit-mask-image:url('https://simpleicons.org/icons/linkedin.svg');
+       mask-image:url('https://simpleicons.org/icons/linkedin.svg');
+       mask-repeat:no-repeat;
+       mask-position:center;
+       mask-size:contain;">
+  </a>
+  <a href="https://www.instagram.com/ch0c4p1kk/" target="_blank" rel="noreferrer"
+     style="
+       display:inline-block;
+       width:40px;
+       height:40px;
+       background-color:#E4405F; 
+       -webkit-mask-image:url('https://simpleicons.org/icons/instagram.svg');
+       mask-image:url('https://simpleicons.org/icons/instagram.svg');
+       mask-repeat:no-repeat;
+       mask-position:center;
+       mask-size:contain;">
+  </a>
+  <a href="https://www.twitter.com/Chocapikk_" target="_blank" rel="noreferrer"
+     style="
+       display:inline-block;
+       width:40px;
+       height:40px;
+       background-color:#000000; 
+       -webkit-mask-image:url('https://simpleicons.org/icons/x.svg');
+       mask-image:url('https://simpleicons.org/icons/x.svg');
+       mask-repeat:no-repeat;
+       mask-position:center;
+       mask-size:contain;">
+  </a>
+  <a href="mailto:balgogan@protonmail.com" target="_blank" rel="noreferrer"
+     style="
+       display:inline-block;
+       width:40px;
+       height:40px;
+       background-color:#640c8a; 
+       -webkit-mask-image:url('https://simpleicons.org/icons/protonmail.svg');
+       mask-image:url('https://simpleicons.org/icons/protonmail.svg');
+       mask-repeat:no-repeat;
+       mask-position:center;
+       mask-size:contain;">
+  </a>
+  <a href="https://tryhackme.com/p/Chocapik" target="_blank" rel="noreferrer"
+     style="
+       display:inline-block;
+       width:40px;
+       height:40px;
+       background-color:#0b0557; 
+       -webkit-mask-image:url('https://simpleicons.org/icons/tryhackme.svg');
+       mask-image:url('https://simpleicons.org/icons/tryhackme.svg');
+       mask-repeat:no-repeat;
+       mask-position:center;
+       mask-size:contain;">
+  </a>
+  <a href="https://root-me.org/Chocapikk" target="_blank" rel="noreferrer"
+     style="
+       display:inline-block;
+       width:40px;
+       height:40px;
+       background-color:#000000; 
+       -webkit-mask-image:url('https://simpleicons.org/icons/rootme.svg');
+       mask-image:url('https://simpleicons.org/icons/rootme.svg');
+       mask-repeat:no-repeat;
+       mask-position:center;
+       mask-size:contain;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"
+     style="
+       display:inline-block;
+       width:40px;
+       height:40px;
+       background-color:#1877F2; 
+       -webkit-mask-image:url('https://simpleicons.org/icons/onlyfans.svg');
+       mask-image:url('https://simpleicons.org/icons/onlyfans.svg');
+       mask-repeat:no-repeat;
+       mask-position:center;
+       mask-size:contain;">
+  </a>
 
 </p>
 
 
+
 ## 🧰 Skills & Languages
 
-### 🚀 Primary Language
-
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Secondary Languages
-
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
-
-### 🔧 Hacking Tools
-
-![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?&style=for-the-badge&logo=metasploit&logoColor=blue)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23ff7b00.svg?&style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%236671AB.svg?&style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?&style=for-the-badge&logo=nmap&logoColor=green)
-![Exploits](https://img.shields.io/badge/My%20Own%20Exploits-%23FF4500.svg?&style=for-the-badge&logo=security&logoColor=white)
-
-### 💻 Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-10,%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-![Mint](https://img.shields.io/badge/Linux-Mint-%286BE43.svg?&style=for-the-badge&logo=linuxmint&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-%2300c8ff.svg?&style=for-the-badge&logo=kalilinux&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-%2334be5b.svg?&style=for-the-badge&logo=manjaro&logoColor=white)
-
-### 🛠️ Version Control
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://api.iconify.design/logos-hugo.svg" alt="Hugo" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer" 
+     style="
+       display:inline-block;
+       width:40px;
+       height:40px;
+       background-color:#2596CD; 
+       -webkit-mask-image:url('https://simpleicons.org/icons/metasploit.svg');
+       mask-image:url('https://simpleicons.org/icons/metasploit.svg');">
+  </a><a href="https://portswigger.net/burp" target="_blank" rel="noreferrer" 
+     style="
+       display:inline-block;
+       width:40px;
+       height:40px;
+       background-color:#FF6633; 
+       -webkit-mask-image:url('https://simpleicons.org/icons/burpsuite.svg');
+       mask-image:url('https://simpleicons.org/icons/burpsuite.svg');">
+  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
+  </a>
+  <a href="https://linuxmint.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40"/>
+  </a>
+  <a href="https://manjaro.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="Manjaro" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+  </a>
+</p>
 
 
 ## 📚 Repositories
@@ -91,16 +223,13 @@ Below is a list of tools I've developed, which are designed to assist in various
 
 Below is a list of Hall of Fame acknowledgments where my contributions to cybersecurity have been recognized:
 
-<div style="max-height: 200px; overflow-y: auto;">
 
 | Company | Hall of Fame | Year |
 |---------|--------------|------|
-| ![Ferrari](https://img.shields.io/badge/-Ferrari-red?style=plastic&logo=ferrari&logoColor=white) | [Ferrari Hall of Fame](https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme) | **2023** |
-| ![Siemens](https://img.shields.io/badge/-Siemens-blue?style=plastic&logo=siemens&logoColor=white) | [Siemens Hall of Thanks](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) | **2024** |
-| ![Philips](https://img.shields.io/badge/-Philips-blue?style=plastic&logo=philips&logoColor=white) | [Philips Hall of Honors](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html) | **2024** |
-| ![Wikimedia](https://img.shields.io/badge/-Wikimedia-black?style=plastic&logo=wikipedia&logoColor=white) | [Wikimedia Hall of Fame](https://security.wikimedia.org/hall-of-fame/) | **2024** |
-
-</div>
+| <div style="display:inline-block;width:40px;height:40px;background-color:red;-webkit-mask-image:url('https://simpleicons.org/icons/ferrari.svg');mask-image:url('https://simpleicons.org/icons/ferrari.svg');mask-repeat:no-repeat;mask-position:center;mask-size:contain;"></div> | [Ferrari Hall of Fame](https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme) | **2023** |
+| <div style="display:inline-block;width:40px;height:40px;background-color:blue;-webkit-mask-image:url('https://simpleicons.org/icons/siemens.svg');mask-image:url('https://simpleicons.org/icons/siemens.svg');mask-repeat:no-repeat;mask-position:center;mask-size:contain;"></div> | [Siemens Hall of Thanks](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) | **2024** |
+| <div style="display:inline-block;width:40px;height:40px;background-color:blue;-webkit-mask-image:url('https://simpleicons.org/icons/simpleicons.svg');mask-image:url('https://simpleicons.org/icons/simpleicons.svg');mask-repeat:no-repeat;mask-position:center;mask-size:contain;"></div> | [Philips Hall of Honors](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html) | **2024** |
+| <div style="display:inline-block;width:40px;height:40px;background-color:black;-webkit-mask-image:url('https://simpleicons.org/icons/wikipedia.svg');mask-image:url('https://simpleicons.org/icons/wikipedia.svg');mask-repeat:no-repeat;mask-position:center;mask-size:contain;"></div> | [Wikimedia Hall of Fame](https://security.wikimedia.org/hall-of-fame/) | **2024** |
 
 
 ### 🚨 CVE Contributions
@@ -126,8 +255,9 @@ I have contributed to identifying and documenting several CVEs. Here’s a list 
 
 </div>
 
+<br>
 
-#### ☁️ Additionally, I serve as a moderator and hunter at LeakIX, where I contribute to the discovery and responsible disclosure of vulnerabilities.
+**☁️ Additionally, I serve as a moderator and hunter at LeakIX, where I contribute to the discovery and responsible disclosure of vulnerabilities.**
 
 <p align="center">
   <img src="https://leakix.net/public/img/logoleakix-v2.png" alt="LeakIX" width="500px">
