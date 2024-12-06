@@ -17,99 +17,40 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 
 Hi there! I'm Valentin Lobstein, a pentester and cybersecurity student at Oteria Cyber School. I'm passionate about ethical hacking, vulnerability research, and software development. I love sharing my knowledge and contributing to the cybersecurity community through my GitHub repositories. 🌐💡
 
-[![GitHub followers](https://img.shields.io/github/followers/Chocapikk?style=social)](https://github.com/Chocapikk)
-
-[![ko-fi](https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0)](https://ko-fi.com/Chocapikk)
-
-<p align="center" style="display:flex; gap:10px; justify-content:center; align-items:center;">
-  <a href="https://www.linkedin.com/in/valentin-l1337/" target="_blank" rel="noreferrer"
-     style="
-       display:inline-block;
-       width:40px;
-       height:40px;
-       background-color:#0A66C2; 
-       -webkit-mask-image:url('https://simpleicons.org/icons/linkedin.svg');
-       mask-image:url('https://simpleicons.org/icons/linkedin.svg');
-       mask-repeat:no-repeat;
-       mask-position:center;
-       mask-size:contain;">
+<p align="center">
+  <a href="https://github.com/Chocapikk" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/Chocapikk?style=social" alt="GitHub followers">
   </a>
-  <a href="https://www.instagram.com/ch0c4p1kk/" target="_blank" rel="noreferrer"
-     style="
-       display:inline-block;
-       width:40px;
-       height:40px;
-       background-color:#E4405F; 
-       -webkit-mask-image:url('https://simpleicons.org/icons/instagram.svg');
-       mask-image:url('https://simpleicons.org/icons/instagram.svg');
-       mask-repeat:no-repeat;
-       mask-position:center;
-       mask-size:contain;">
+  <br>
+  <br>
+  <a href="https://ko-fi.com/Chocapikk" target="_blank" rel="noreferrer">
+    <img src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" alt="Support me on Ko-fi">
   </a>
-  <a href="https://www.twitter.com/Chocapikk_" target="_blank" rel="noreferrer"
-     style="
-       display:inline-block;
-       width:40px;
-       height:40px;
-       background-color:#000000; 
-       -webkit-mask-image:url('https://simpleicons.org/icons/x.svg');
-       mask-image:url('https://simpleicons.org/icons/x.svg');
-       mask-repeat:no-repeat;
-       mask-position:center;
-       mask-size:contain;">
-  </a>
-  <a href="mailto:balgogan@protonmail.com" target="_blank" rel="noreferrer"
-     style="
-       display:inline-block;
-       width:40px;
-       height:40px;
-       background-color:#640c8a; 
-       -webkit-mask-image:url('https://simpleicons.org/icons/protonmail.svg');
-       mask-image:url('https://simpleicons.org/icons/protonmail.svg');
-       mask-repeat:no-repeat;
-       mask-position:center;
-       mask-size:contain;">
-  </a>
-  <a href="https://tryhackme.com/p/Chocapik" target="_blank" rel="noreferrer"
-     style="
-       display:inline-block;
-       width:40px;
-       height:40px;
-       background-color:#0b0557; 
-       -webkit-mask-image:url('https://simpleicons.org/icons/tryhackme.svg');
-       mask-image:url('https://simpleicons.org/icons/tryhackme.svg');
-       mask-repeat:no-repeat;
-       mask-position:center;
-       mask-size:contain;">
-  </a>
-  <a href="https://root-me.org/Chocapikk" target="_blank" rel="noreferrer"
-     style="
-       display:inline-block;
-       width:40px;
-       height:40px;
-       background-color:#000000; 
-       -webkit-mask-image:url('https://simpleicons.org/icons/rootme.svg');
-       mask-image:url('https://simpleicons.org/icons/rootme.svg');
-       mask-repeat:no-repeat;
-       mask-position:center;
-       mask-size:contain;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"
-     style="
-       display:inline-block;
-       width:40px;
-       height:40px;
-       background-color:#1877F2; 
-       -webkit-mask-image:url('https://simpleicons.org/icons/onlyfans.svg');
-       mask-image:url('https://simpleicons.org/icons/onlyfans.svg');
-       mask-repeat:no-repeat;
-       mask-position:center;
-       mask-size:contain;">
-  </a>
-
 </p>
 
-
+<p align="center" style="display:flex; gap:10px; justify-content:center; align-items:center;">
+  <a href="https://www.linkedin.com/in/valentin-l1337/" target="_blank" rel="noreferrer">
+    <img src="https://simpleicons.org/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" style="filter: invert(100%);">
+  </a>
+  <a href="https://www.instagram.com/ch0c4p1kk/" target="_blank" rel="noreferrer">
+    <img src="https://simpleicons.org/icons/instagram.svg" width="40" height="40" alt="Instagram" style="filter: invert(100%);">
+  </a>
+  <a href="https://www.twitter.com/Chocapikk_" target="_blank" rel="noreferrer">
+    <img src="https://simpleicons.org/icons/x.svg" width="40" height="40" alt="X" style="filter: invert(100%);">
+  </a>
+  <a href="mailto:balgogan@protonmail.com" target="_blank" rel="noreferrer">
+    <img src="https://simpleicons.org/icons/protonmail.svg" width="40" height="40" alt="Protonmail" style="filter: invert(100%);">
+  </a>
+  <a href="https://tryhackme.com/p/Chocapik" target="_blank" rel="noreferrer">
+    <img src="https://simpleicons.org/icons/tryhackme.svg" width="40" height="40" alt="TryHackMe" style="filter: invert(100%);">
+  </a>
+  <a href="https://root-me.org/Chocapikk" target="_blank" rel="noreferrer">
+    <img src="https://simpleicons.org/icons/rootme.svg" width="40" height="40" alt="RootMe" style="filter: invert(100%);">
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer">
+    <img src="https://simpleicons.org/icons/onlyfans.svg" width="40" height="40" alt="OnlyFans" style="filter: invert(100%);">
+  </a>
+</p>
 
 ## 🧰 Skills & Languages
 
@@ -163,21 +104,18 @@ Hi there! I'm Valentin Lobstein, a pentester and cybersecurity student at Oteria
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer" 
-     style="
-       display:inline-block;
-       width:40px;
-       height:40px;
-       background-color:#2596CD; 
-       -webkit-mask-image:url('https://simpleicons.org/icons/metasploit.svg');
-       mask-image:url('https://simpleicons.org/icons/metasploit.svg');">
-  </a><a href="https://portswigger.net/burp" target="_blank" rel="noreferrer" 
-     style="
-       display:inline-block;
-       width:40px;
-       height:40px;
-       background-color:#FF6633; 
-       -webkit-mask-image:url('https://simpleicons.org/icons/burpsuite.svg');
-       mask-image:url('https://simpleicons.org/icons/burpsuite.svg');">
+    style="
+      display:inline-block;
+      width:40px;
+      height:40px;">
+    <img src="https://simpleicons.org/icons/metasploit.svg" width="40" height="40" alt="Metasploit" style="filter: invert(100%);">
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer" 
+    style="
+      display:inline-block;
+      width:40px;
+      height:40px;">
+    <img src="https://simpleicons.org/icons/burpsuite.svg" width="40" height="40" alt="Burp Suite" style="filter: invert(100%);">
   </a>
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
@@ -223,92 +161,32 @@ Below is a list of tools I've developed, which are designed to assist in various
 
 Below is a list of Hall of Fame acknowledgments where my contributions to cybersecurity have been recognized:
 
-
-<div style="display:flex;align-items:center;gap:10px;">
-  <!-- Ferrari -->
-  <div style="
-    display:inline-block;
-    width:40px;
-    height:40px;
-    background-color:red;
-    -webkit-mask-image:url('https://simpleicons.org/icons/ferrari.svg');
-    mask-image:url('https://simpleicons.org/icons/ferrari.svg');
-    mask-repeat:no-repeat;
-    mask-position:center;
-    mask-size:contain;">
-  </div>
-  <div>
+<p align="center" style="display:flex; gap:20px; justify-content:center; align-items:center;">
+  <span style="display:inline-flex;flex-direction:column;align-items:center;gap:5px;">
     <a href="https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme" target="_blank" rel="noreferrer">
-      Ferrari Hall of Fame
-    </a><br>
+      <img src="https://simpleicons.org/icons/ferrari.svg" width="40" height="40" alt="Ferrari" style="filter: invert(100%);">
+    </a>
     <strong>2023</strong>
-  </div>
-</div>
-
-<div style="display:flex;align-items:center;gap:10px;margin-top:10px;">
-  <!-- Siemens -->
-  <div style="
-    display:inline-block;
-    width:40px;
-    height:40px;
-    background-color:blue;
-    -webkit-mask-image:url('https://simpleicons.org/icons/siemens.svg');
-    mask-image:url('https://simpleicons.org/icons/siemens.svg');
-    mask-repeat:no-repeat;
-    mask-position:center;
-    mask-size:contain;">
-  </div>
-  <div>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;gap:5px;">
     <a href="https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html" target="_blank" rel="noreferrer">
-      Siemens Hall of Thanks
-    </a><br>
+      <img src="https://simpleicons.org/icons/siemens.svg" width="40" height="40" alt="Siemens" style="filter: invert(100%);">
+    </a>
     <strong>2024</strong>
-  </div>
-</div>
-
-<div style="display:flex;align-items:center;gap:10px;margin-top:10px;">
-  <!-- Philips (icône neutre simpleicons) -->
-  <div style="
-    display:inline-block;
-    width:40px;
-    height:40px;
-    background-color:blue;
-    -webkit-mask-image:url('https://simpleicons.org/icons/simpleicons.svg');
-    mask-image:url('https://simpleicons.org/icons/simpleicons.svg');
-    mask-repeat:no-repeat;
-    mask-position:center;
-    mask-size:contain;">
-  </div>
-  <div>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;gap:5px;">
     <a href="https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html" target="_blank" rel="noreferrer">
-      Philips Hall of Honors
-    </a><br>
+      <img src="https://simpleicons.org/icons/simpleicons.svg" width="40" height="40" alt="Philips" style="filter: invert(100%);">
+    </a>
     <strong>2024</strong>
-  </div>
-</div>
-
-<div style="display:flex;align-items:center;gap:10px;margin-top:10px;">
-  <!-- Wikimedia (icône wikipedia) -->
-  <div style="
-    display:inline-block;
-    width:40px;
-    height:40px;
-    background-color:black;
-    -webkit-mask-image:url('https://simpleicons.org/icons/wikipedia.svg');
-    mask-image:url('https://simpleicons.org/icons/wikipedia.svg');
-    mask-repeat:no-repeat;
-    mask-position:center;
-    mask-size:contain;">
-  </div>
-  <div>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;gap:5px;">
     <a href="https://security.wikimedia.org/hall-of-fame/" target="_blank" rel="noreferrer">
-      Wikimedia Hall of Fame
-    </a><br>
+      <img src="https://simpleicons.org/icons/wikipedia.svg" width="40" height="40" alt="Wikimedia" style="filter: invert(100%);">
+    </a>
     <strong>2024</strong>
-  </div>
-</div>
-
-
+  </span>
+</p>
 
 ### 🚨 CVE Contributions
 
