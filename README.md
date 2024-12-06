@@ -224,41 +224,90 @@ Below is a list of tools I've developed, which are designed to assist in various
 Below is a list of Hall of Fame acknowledgments where my contributions to cybersecurity have been recognized:
 
 
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Hall of Fame</th>
-    <th>Year</th>
-  </tr>
-  <tr>
-    <td>
-      <div style="display:inline-block;width:40px;height:40px;background-color:red;-webkit-mask-image:url('https://simpleicons.org/icons/ferrari.svg');mask-image:url('https://simpleicons.org/icons/ferrari.svg');mask-repeat:no-repeat;mask-position:center;mask-size:contain;"></div>
-    </td>
-    <td><a href="https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme" target="_blank" rel="noreferrer">Ferrari Hall of Fame</a></td>
-    <td><strong>2023</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <div style="display:inline-block;width:40px;height:40px;background-color:blue;-webkit-mask-image:url('https://simpleicons.org/icons/siemens.svg');mask-image:url('https://simpleicons.org/icons/siemens.svg');mask-repeat:no-repeat;mask-position:center;mask-size:contain;"></div>
-    </td>
-    <td><a href="https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html" target="_blank" rel="noreferrer">Siemens Hall of Thanks</a></td>
-    <td><strong>2024</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <div style="display:inline-block;width:40px;height:40px;background-color:blue;-webkit-mask-image:url('https://simpleicons.org/icons/simpleicons.svg');mask-image:url('https://simpleicons.org/icons/simpleicons.svg');mask-repeat:no-repeat;mask-position:center;mask-size:contain;"></div>
-    </td>
-    <td><a href="https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html" target="_blank" rel="noreferrer">Philips Hall of Honors</a></td>
-    <td><strong>2024</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <div style="display:inline-block;width:40px;height:40px;background-color:black;-webkit-mask-image:url('https://simpleicons.org/icons/wikipedia.svg');mask-image:url('https://simpleicons.org/icons/wikipedia.svg');mask-repeat:no-repeat;mask-position:center;mask-size:contain;"></div>
-    </td>
-    <td><a href="https://security.wikimedia.org/hall-of-fame/" target="_blank" rel="noreferrer">Wikimedia Hall of Fame</a></td>
-    <td><strong>2024</strong></td>
-  </tr>
-</table>
+<div style="display:flex;align-items:center;gap:10px;">
+  <!-- Ferrari -->
+  <div style="
+    display:inline-block;
+    width:40px;
+    height:40px;
+    background-color:red;
+    -webkit-mask-image:url('https://simpleicons.org/icons/ferrari.svg');
+    mask-image:url('https://simpleicons.org/icons/ferrari.svg');
+    mask-repeat:no-repeat;
+    mask-position:center;
+    mask-size:contain;">
+  </div>
+  <div>
+    <a href="https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme" target="_blank" rel="noreferrer">
+      Ferrari Hall of Fame
+    </a><br>
+    <strong>2023</strong>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;gap:10px;margin-top:10px;">
+  <!-- Siemens -->
+  <div style="
+    display:inline-block;
+    width:40px;
+    height:40px;
+    background-color:blue;
+    -webkit-mask-image:url('https://simpleicons.org/icons/siemens.svg');
+    mask-image:url('https://simpleicons.org/icons/siemens.svg');
+    mask-repeat:no-repeat;
+    mask-position:center;
+    mask-size:contain;">
+  </div>
+  <div>
+    <a href="https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html" target="_blank" rel="noreferrer">
+      Siemens Hall of Thanks
+    </a><br>
+    <strong>2024</strong>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;gap:10px;margin-top:10px;">
+  <!-- Philips (icône neutre simpleicons) -->
+  <div style="
+    display:inline-block;
+    width:40px;
+    height:40px;
+    background-color:blue;
+    -webkit-mask-image:url('https://simpleicons.org/icons/simpleicons.svg');
+    mask-image:url('https://simpleicons.org/icons/simpleicons.svg');
+    mask-repeat:no-repeat;
+    mask-position:center;
+    mask-size:contain;">
+  </div>
+  <div>
+    <a href="https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html" target="_blank" rel="noreferrer">
+      Philips Hall of Honors
+    </a><br>
+    <strong>2024</strong>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;gap:10px;margin-top:10px;">
+  <!-- Wikimedia (icône wikipedia) -->
+  <div style="
+    display:inline-block;
+    width:40px;
+    height:40px;
+    background-color:black;
+    -webkit-mask-image:url('https://simpleicons.org/icons/wikipedia.svg');
+    mask-image:url('https://simpleicons.org/icons/wikipedia.svg');
+    mask-repeat:no-repeat;
+    mask-position:center;
+    mask-size:contain;">
+  </div>
+  <div>
+    <a href="https://security.wikimedia.org/hall-of-fame/" target="_blank" rel="noreferrer">
+      Wikimedia Hall of Fame
+    </a><br>
+    <strong>2024</strong>
+  </div>
+</div>
+
 
 
 ### 🚨 CVE Contributions
