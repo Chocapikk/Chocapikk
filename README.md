@@ -47,8 +47,11 @@ Below is a list of tools I've developed, which are designed to assist in various
 Below is a list of Hall of Fame acknowledgments where my contributions to cybersecurity have been recognized:
 
 [![2023 - Ferrari](https://img.shields.io/badge/2023-Ferrari-FF2800?style=for-the-badge&logo=ferrari&logoColor=white)](https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme)
+
 [![2024 - Siemens](https://img.shields.io/badge/2024-Siemens-0077C8?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html)
+
 [![2024 - Philips](https://img.shields.io/badge/2024-Philips-0E5EF7?style=for-the-badge&logo=philips&logoColor=white)](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html)
+
 [![2024 - Wikimedia](https://img.shields.io/badge/2024-Wikimedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white)](https://security.wikimedia.org/hall-of-fame/)
 
 ### 🚨 <ins>CVE Contributions</ins>
