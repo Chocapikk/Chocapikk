@@ -34,15 +34,15 @@ Below is a list of tools I've developed, which are designed to assist in various
 
 <div style="max-height: 200px; overflow-y: auto; padding-right: 10px;">
 
+- **WPProbe**
+  <br>
+  *A fast WordPress plugin enumeration tool* - [GitHub](https://github.com/Chocapikk/wpprobe)
+
 - **LFIHunt**  
   *Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities.* - [GitHub](https://github.com/Chocapikk/LFIHunt)
 
 - **LeakPy**  
   *Python-based tool to query LeakIX.net's API.* - [GitHub](https://github.com/Chocapikk/LeakPy)
-
-- **WPProbe**
-  *A fast WordPress plugin enumeration tool* - [GitHub](https://github.com/Chocapikk/wpprobe)
-
 </div>
 
 ### 🏆 <ins>Hall Of Fame</ins>
