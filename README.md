@@ -40,6 +40,9 @@ Below is a list of tools I've developed, which are designed to assist in various
 - **LeakPy**  
   *Python-based tool to query LeakIX.net's API.* - [GitHub](https://github.com/Chocapikk/LeakPy)
 
+- **WPProbe**
+  *A fast WordPress plugin enumeration tool* - [GitHub](https://github.com/Chocapikk/wpprobe)
+
 </div>
 
 ### 🏆 <ins>Hall Of Fame</ins>
