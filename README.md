@@ -79,6 +79,9 @@ I have contributed to identifying and documenting several CVEs. Click on the dro
 - **🔒 CVE-2024-3032**  
     *Themify Builder < 7.5.8 - Open Redirect* - [WPScan](https://wpscan.com/vulnerability/d130a60c-c36b-4994-9b0e-e52cd7f99387/)
 
+- **🔒 CVE-2025-2609 & CVE-2025-2610**  
+    *Stored XSS in MagnusBilling 7.x, including one unauthenticated* - [Blog](https://chocapikk.com/posts/2025/magnusbilling) · [VulnCheck](https://vulncheck.com/advisories/magnusbilling-logs-xss)
+
 </details>
 
 <br>
