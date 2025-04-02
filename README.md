@@ -82,6 +82,12 @@ I have contributed to identifying and documenting several CVEs. Click on the dro
 - **🔒 CVE-2025-2609 & CVE-2025-2610**  
     *Stored XSS in MagnusBilling 7.x, including one unauthenticated* - [Blog](https://chocapikk.com/posts/2025/magnusbilling) · [VulnCheck](https://vulncheck.com/advisories/magnusbilling-logs-xss)
 
+- **🔒 CVE-2025-2292, CVE-2025-30004, CVE-2025-30005 & CVE-2025-30006**  
+    *Multiple authenticated vulnerabilities in Xorcom CompletePBX <= 5.2.35*  
+    [File Disclosure](https://vulncheck.com/advisories/completepbx-file-disclosure) · 
+    [Command Injection](https://vulncheck.com/advisories/completepbx-authenticated-command-injection) · 
+    [Path Traversal](https://vulncheck.com/advisories/completepbx-path-traversal-file-deletion) · 
+    [Reflected XSS](https://vulncheck.com/advisories/completepbx-reflected-xss)
 </details>
 
 <br>
