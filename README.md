@@ -17,6 +17,10 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 
 Hi there! I'm Valentin Lobstein, a pentester and cybersecurity student at Oteria Cyber School. I'm passionate about ethical hacking, vulnerability research, and software development. I love sharing my knowledge and contributing to the cybersecurity community through my GitHub repositories. 🌐💡
 
+<a href="https://github.com/rapid7/metasploit-framework/search?q=Valentin+Lobstein">
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Feathfdjqlf.execute-api.us-east-2.amazonaws.com%2Ftest%2Fv1%2Fmodules%3Fauthor%3DValentin%2520Lobstein%26type%3D%2Dpayload&color=0079D6">
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-l1337/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ch0c4p1kk/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/Chocapikk_)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:balgogan@protonmail.com)[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Chocapik)[![RootMe](https://img.shields.io/badge/RootMe-121011?style=for-the-badge&logo=rootme&logoColor=white)](https://root-me.org/Chocapikk)[![Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Chocapikk)
 
@@ -59,7 +63,7 @@ Below is a list of Hall of Fame acknowledgments where my contributions to cybers
 
 ### 🚨 <ins>CVE Contributions</ins>
 
-I have contributed to identifying and documenting several CVEs. Click on the dropdown below to view the list:
+I have contributed to identifying and documenting several CVEs.
 
 <details>
   <summary><strong>Click to expand CVE Contributions</strong></summary>
