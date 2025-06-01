@@ -22,7 +22,7 @@ Hi there! I'm Valentin Lobstein, a pentester and cybersecurity student at Oteria
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-l1337/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ch0c4p1kk/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/Chocapikk_)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:balgogan@protonmail.com)[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Chocapik)[![RootMe](https://img.shields.io/badge/RootMe-121011?style=for-the-badge&logo=rootme&logoColor=white)](https://root-me.org/Chocapikk)[![Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Chocapikk)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:balgogan@protonmail.com)[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Chocapikk)[![RootMe](https://img.shields.io/badge/RootMe-121011?style=for-the-badge&logo=rootme&logoColor=white)](https://root-me.org/Chocapikk)[![Ko-fi](https://img.shields.io/badge/Support%20Me-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Chocapikk)
 
 ## <ins>🧰 Skills & Languages</ins>
 
