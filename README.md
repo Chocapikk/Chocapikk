@@ -16,11 +16,9 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 -->
 
 > [!NOTE]
-> **Hi there! I'm Valentin Lobstein**, a pentester and cybersecurity student at Oteria Cyber School.  
-> **Passionate** about ethical hacking, vulnerability research, and software development.  
-> **Committed** to sharing knowledge and uplifting the cybersecurity community via my GitHub repositories. 🌐💡  
-
-<br>
+> **Hi there! I'm Valentin Lobstein (aka Chocapikk)**, Security Engineer & Exploit Developer @ [LeakIX](https://leakix.net).  
+> **Passionate** about vulnerability research, exploit development, and internet-wide vulnerability detection.  
+> **Committed** to sharing knowledge and building open-source tools
 
 
 <p align="center">
