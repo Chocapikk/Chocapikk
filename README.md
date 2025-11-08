@@ -20,7 +20,6 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 > **Passionate** about vulnerability research, exploit development, and internet-wide vulnerability detection.  
 > **Committed** to sharing knowledge and building open-source tools
 
-
 <p align="center">
    <a href="https://github.com/rapid7/metasploit-framework/search?q=Valentin+Lobstein">
       <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Feathfdjqlf.execute-api.us-east-2.amazonaws.com%2Ftest%2Fv1%2Fmodules%3Fauthor%3DValentin%2520Lobstein%26type%3D%2Dpayload&color=0079D6">
@@ -102,7 +101,6 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 
 </details>
 
-
 <details>
   <summary><b>🚨 CVE Contributions</b></summary>
 
@@ -117,8 +115,8 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
   | 🔒 CVE-2025-2292, CVE-2025-30004, CVE-2025-30005 & CVE-2025-30006 | Authenticated vulnerabilities in Xorcom CompletePBX ≤ 5.2.35 | [File Disclosure](https://vulncheck.com/advisories/completepbx-file-disclosure) · [Command Injection](https://vulncheck.com/advisories/completepbx-authenticated-command-injection) · [Path Traversal](https://vulncheck.com/advisories/completepbx-path-traversal-file-deletion) · [Reflected XSS](https://vulncheck.com/advisories/completepbx-reflected-xss) |
   | 🔒 CVE-2025-2611                                                 | ICTBroadcast <= 7.4 – Unauthenticated RCE via cookie injection | [GitHub](https://github.com/Chocapikk/CVE-2025-2611) |
   | 🔒 CVE-2025-34147 to CVE-2025-34152                              | Multiple unauthenticated OS command injection vulnerabilities in the Shenzhen Aitemi M300 Wi-Fi Repeater (MT02). Affects: `extap2g` SSID, WISP-mode `ssid`, WPA2 `key`, PPPoE `user`, PPPoE `passwd`, `time` param in `/protocol.csp?`. Allows remote root code execution within Wi-Fi range. | [Part 1](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/) · [Part 2](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/) |
-</details>
 
+</details>
 
 <details>
   <summary><b>🚨 Exploit Development & PoC</b></summary>
@@ -131,35 +129,12 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 <details>
   <summary><b>☁️ LeakIX</b></summary>
 
-  - Moderator & vulnerability hunter  
-  - Notable finding: Massive PSaux ransomware attack affecting 22,000 CyberPanel instances ([BleepingComputer](https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/))  
-  - Follow on Twitter: [@leak_ix](https://twitter.com/leak_ix)
+- Security Engineer  
+- Notable finding: Massive PSaux ransomware attack affecting 22,000 CyberPanel instances ([BleepingComputer](https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/))  
+- Follow on Twitter: [@leak_ix](https://twitter.com/leak_ix)
 
   <p align="center">
     <img src="https://leakix.net/public/img/logoleakix-v2.png" alt="LeakIX" width="500px">
-  </p>
-
-</details>
-
-<details>
-  <summary><b>🤓 Stats for Nerds</b></summary>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=root@fbi.gov:~%23" alt="Introduction">
-  </p>
-
-  <p align="center">
-    <strong>Views</strong><br>
-    <img src="https://profile-counter.glitch.me/Chocapikk/count.svg" alt="Visitors">
-  </p>
-
-</details>
-
-<details>
-  <summary><b>🎶 Spotify</b></summary>
-
-  <p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oo9aiy0bxg2zdatiwj3enp2pa&count=6" alt="Spotify">
   </p>
 
 </details>
