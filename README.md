@@ -4,7 +4,11 @@
    </a>
 </p>
 
+<div align="center">
+
 ![](./github-header-image.png)
+
+</div>
 
 <!-- 
 🥚🎉 Congratulations! You found the hidden Easter egg! 🎉🥚
@@ -19,6 +23,8 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 > **Hi there! I'm Valentin Lobstein (aka Chocapikk)**, Security Engineer & Exploit Developer @ [LeakIX](https://leakix.net).  
 > **Passionate** about vulnerability research, exploit development, and internet-wide vulnerability detection.  
 > **Committed** to sharing knowledge and building open-source tools
+
+---
 
 <p align="center">
    <a href="https://github.com/rapid7/metasploit-framework/search?q=Valentin+Lobstein">
@@ -50,7 +56,28 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
   </a>
 </p>
 
-<br>
+---
+
+<details open>
+  <summary><b>🚨 CVE Contributions</b></summary>
+
+  | CVE Identifier                                                    | Description                                          | Links                                                                                                                                     |
+  |-------------------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+  | 🔒 CVE-2025-34433, CVE-2025-34441, CVE-2025-34442                | Unauthenticated RCE chain in AVideo via predictable salt bruteforce | [Blog](https://chocapikk.com/posts/2025/avideo-security-vulnerabilities/) · [VulnCheck](https://www.vulncheck.com/advisories/avideo-unauthenticated-rce-via-predictable-installation-salt) |
+  | 🔒 CVE-2025-34452                                                | Path Traversal + SSRF in Streama leading to arbitrary file write | [Blog](https://chocapikk.com/posts/2025/streama-path-traversal-ssrf/) · [VulnCheck](https://www.vulncheck.com/advisories/streama-subtitle-download-path-traversal-and-ssrf-leading-to-arbitrary-file-write) |
+  | 🔒 CVE-2025-34147 to CVE-2025-34152                              | Multiple unauthenticated OS command injection vulnerabilities in the Shenzhen Aitemi M300 Wi-Fi Repeater (MT02). Affects: `extap2g` SSID, WISP-mode `ssid`, WPA2 `key`, PPPoE `user`, PPPoE `passwd`, `time` param in `/protocol.csp?`. Allows remote root code execution within Wi-Fi range. | [Part 1](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/) · [Part 2](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/) |
+  | 🔒 CVE-2025-2611                                                 | ICTBroadcast <= 7.4 – Unauthenticated RCE via cookie injection | [GitHub](https://github.com/Chocapikk/CVE-2025-2611) |
+  | 🔒 CVE-2025-2609 & CVE-2025-2610                                  | Stored XSS in MagnusBilling 7.x (one unauthenticated) | [Blog](https://chocapikk.com/posts/2025/magnusbilling) · [VulnCheck](https://vulncheck.com/advisories/magnusbilling-logs-xss)              |
+  | 🔒 CVE-2025-2292, CVE-2025-30004, CVE-2025-30005 & CVE-2025-30006 | Authenticated vulnerabilities in Xorcom CompletePBX ≤ 5.2.35 | [File Disclosure](https://vulncheck.com/advisories/completepbx-file-disclosure) · [Command Injection](https://vulncheck.com/advisories/completepbx-authenticated-command-injection) · [Path Traversal](https://vulncheck.com/advisories/completepbx-path-traversal-file-deletion) · [Reflected XSS](https://vulncheck.com/advisories/completepbx-reflected-xss) |
+  | 🔒 CVE-2024-31819                                                 | Unauthenticated RCE in WWBN AVideo via `systemRootPath` | [GitHub](https://github.com/Chocapikk/CVE-2024-31819)                                                                                     |
+  | 🔒 CVE-2024-30920 to CVE-2024-30929, CVE-2024-31818               | Research and exploitation in DerbyNet                | [GitHub](https://github.com/Chocapikk/derbynet-research)                                                                                  |
+  | 🔒 CVE-2024-22899 to CVE-2024-22903, CVE-2024-25228               | Exploit chain in Vinchin Backup & Recovery           | [GitHub](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                               |
+  | 🔒 CVE-2024-3032                                                  | Themify Builder < 7.5.8 – Open Redirect              | [WPScan](https://wpscan.com/vulnerability/d130a60c-c36b-4994-9b0e-e52f7f99387/)                                                           |
+  | 🔒 CVE-2023-50917                                                 | Remote Code Execution in MajorDoMo                  | [GitHub](https://github.com/Chocapikk/CVE-2023-50917)                                                                                     |
+
+</details>
+
+---
 
 <details>
   <summary><b>🧰 Skills & Languages</b></summary>
@@ -102,23 +129,6 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 </details>
 
 <details>
-  <summary><b>🚨 CVE Contributions</b></summary>
-
-  | CVE Identifier                                                    | Description                                          | Links                                                                                                                                     |
-  |-------------------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-  | 🔒 CVE-2023-50917                                                 | Remote Code Execution in MajorDoMo                  | [GitHub](https://github.com/Chocapikk/CVE-2023-50917)                                                                                     |
-  | 🔒 CVE-2024-22899 to CVE-2024-22903, CVE-2024-25228               | Exploit chain in Vinchin Backup & Recovery           | [GitHub](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                               |
-  | 🔒 CVE-2024-30920 to CVE-2024-30929, CVE-2024-31818               | Research and exploitation in DerbyNet                | [GitHub](https://github.com/Chocapikk/derbynet-research)                                                                                  |
-  | 🔒 CVE-2024-31819                                                 | Unauthenticated RCE in WWBN AVideo via `systemRootPath` | [GitHub](https://github.com/Chocapikk/CVE-2024-31819)                                                                                     |
-  | 🔒 CVE-2024-3032                                                  | Themify Builder < 7.5.8 – Open Redirect              | [WPScan](https://wpscan.com/vulnerability/d130a60c-c36b-4994-9b0e-e52f7f99387/)                                                           |
-  | 🔒 CVE-2025-2609 & CVE-2025-2610                                  | Stored XSS in MagnusBilling 7.x (one unauthenticated) | [Blog](https://chocapikk.com/posts/2025/magnusbilling) · [VulnCheck](https://vulncheck.com/advisories/magnusbilling-logs-xss)              |
-  | 🔒 CVE-2025-2292, CVE-2025-30004, CVE-2025-30005 & CVE-2025-30006 | Authenticated vulnerabilities in Xorcom CompletePBX ≤ 5.2.35 | [File Disclosure](https://vulncheck.com/advisories/completepbx-file-disclosure) · [Command Injection](https://vulncheck.com/advisories/completepbx-authenticated-command-injection) · [Path Traversal](https://vulncheck.com/advisories/completepbx-path-traversal-file-deletion) · [Reflected XSS](https://vulncheck.com/advisories/completepbx-reflected-xss) |
-  | 🔒 CVE-2025-2611                                                 | ICTBroadcast <= 7.4 – Unauthenticated RCE via cookie injection | [GitHub](https://github.com/Chocapikk/CVE-2025-2611) |
-  | 🔒 CVE-2025-34147 to CVE-2025-34152                              | Multiple unauthenticated OS command injection vulnerabilities in the Shenzhen Aitemi M300 Wi-Fi Repeater (MT02). Affects: `extap2g` SSID, WISP-mode `ssid`, WPA2 `key`, PPPoE `user`, PPPoE `passwd`, `time` param in `/protocol.csp?`. Allows remote root code execution within Wi-Fi range. | [Part 1](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/) · [Part 2](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/) |
-
-</details>
-
-<details>
   <summary><b>🚨 Exploit Development & PoC</b></summary>
 
   *All PoCs and Metasploit modules consolidated in:*  
@@ -138,6 +148,14 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
   </p>
 
 </details>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-profile-alpha.vercel.app/api?username=Chocapikk&theme=dark&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+---
 
 > [!CAUTION]  
 > ⚠️ **Disclaimer**  
