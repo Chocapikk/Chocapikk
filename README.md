@@ -157,6 +157,22 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 
 ---
 
+<details open>
+  <summary><b>🎶 Spotify</b></summary>
+
+  <p align="center">
+    <i>🎧 Warning: May contain questionable bangers and guilty pleasures.</i><br>
+    <i>🔓 All my work was done while vibing to tracker, synthwave, tribe / hardtek / frenchcore & video game music. It's here for a reason.</i>
+  </p>
+
+  <p align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oo9aiy0bxg2zdatiwj3enp2pa&count=6" alt="Spotify">
+  </p>
+
+</details>
+
+---
+
 > [!CAUTION]  
 > ⚠️ **Disclaimer**  
 > Please use the information and exploits provided in my repositories for educational purposes and responsible disclosure only. I am not responsible for any misuse or damage caused by using these tools, scripts, or exploits.
