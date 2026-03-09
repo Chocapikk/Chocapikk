@@ -27,8 +27,8 @@ If you want to share that you found the Easter egg, tweet me @Chocapikk_!
 ---
 
 <p align="center">
-   <a href="https://github.com/rapid7/metasploit-framework/search?q=Valentin+Lobstein">
-      <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Feathfdjqlf.execute-api.us-east-2.amazonaws.com%2Ftest%2Fv1%2Fmodules%3Fauthor%3DValentin%2520Lobstein%26type%3D%2Dpayload&color=0079D6">
+   <a href="https://github.com/Chocapikk/msf-exploit-collection">
+      <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FChocapikk%2Fmsf-exploit-collection%2Fmain%2Fbadge.json">
    </a>
 </p>
 
