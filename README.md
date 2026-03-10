@@ -1,185 +1,47 @@
-<p align='center'>
-   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=150&center=true&duration=3000&pause=1000&width=2300&height=300&lines=Welcome+to+my+GitHub" alt="Typing SVG" />
-   </a>
-</p>
+> **Valentin Lobstein** (Chocapikk)
+> Security Researcher & Exploit Developer
+> CVEs · Metasploit modules · Open-source tools
 
-<div align="center">
-
-![](./github-header-image.png)
-
-</div>
-
-<!-- 
-🥚🎉 Congratulations! You found the hidden Easter egg! 🎉🥚
-
-Here's a secret message just for you:
-"Always be curious and never stop learning!"
-
-If you want to share that you found the Easter egg, tweet me @Chocapikk_!
--->
-
-> [!NOTE]
-> **Hi there! I'm Valentin Lobstein (aka Chocapikk)**, Security Engineer & Exploit Developer @ [LeakIX](https://leakix.net).  
-> **Passionate** about vulnerability research, exploit development, and internet-wide vulnerability detection.  
-> **Committed** to sharing knowledge and building open-source tools
+[Blog](https://chocapikk.com) · [Twitter](https://twitter.com/Chocapikk_) · [LinkedIn](https://www.linkedin.com/in/valentin-l1337/) · [Ko-fi](https://ko-fi.com/Chocapikk)
 
 ---
 
-<p align="center">
-   <a href="https://github.com/Chocapikk/msf-exploit-collection">
-      <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FChocapikk%2Fmsf-exploit-collection%2Fmain%2Fbadge.json">
-   </a>
-</p>
+### CVE Contributions
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/valentin-l1337/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ch0c4p1kk/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.twitter.com/Chocapikk_">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:balgogan@protonmail.com">
-    <img alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-  </a>
-  <a href="https://tryhackme.com/p/Chocapikk">
-    <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
-  <a href="https://root-me.org/Chocapikk">
-    <img alt="RootMe" src="https://img.shields.io/badge/RootMe-121011?style=for-the-badge&logo=rootme&logoColor=white"/>
-  </a>
-  <a href="https://ko-fi.com/Chocapikk">
-    <img alt="Ko-fi" src="https://img.shields.io/badge/Support%20Me-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-</p>
+| CVE                                              | Description                                                                                                                 | Links                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-28515 to CVE-2026-28517                 | 3 chained vulns in openDCIM: missing auth + SQLi + OS command injection = unauth RCE on Docker                              | [Blog](https://chocapikk.com/posts/2026/opendcim-sqli-to-rce/) · [Exploit](https://github.com/Chocapikk/opendcim-exploit)                                                                                                                                                                                                                             |
+| CVE-2026-27743 to CVE-2026-27747                 | 5 vulns in SPIP plugins: 2 SQLi, 2 RCE, 1 XSS                                                                               | [Blog](https://chocapikk.com/posts/2026/spip-plugins-vulnerabilities/) · [SPIP](https://blog.spip.net/Mise-a-jour-de-securite-sortie-de-SPIP-4-4-10.html?var_mode=calcul)                                                                                                                                                                             |
+| CVE-2026-27174 to CVE-2026-27181                 | 8 vulns in MajorDoMo: 3 critical RCE, SQLi, 3 XSS, unauth module uninstall                                                  | [Blog](https://chocapikk.com/posts/2026/majordomo-revisited/)                                                                                                                                                                                                                                                                                         |
+| CVE-2026-26220                                   | Unauth RCE via Pickle Deserialization in LightLLM                                                                           | [Blog](https://chocapikk.com/posts/2026/lightllm-pickle-rce/)                                                                                                                                                                                                                                                                                         |
+| CVE-2026-26215                                   | Unauth RCE via Pickle Deserialization in manga-image-translator                                                             | [Blog](https://chocapikk.com/posts/2026/manga-image-translator-pickle-rce/) · [VulnCheck](https://www.vulncheck.com/advisories/manga-image-translator-shared-api-unsafe-deserialization-rce)                                                                                                                                                          |
+| CVE-2025-34433, CVE-2025-34441, CVE-2025-34442   | Unauth RCE chain in AVideo via predictable salt bruteforce                                                                  | [Blog](https://chocapikk.com/posts/2025/avideo-security-vulnerabilities/) · [VulnCheck](https://www.vulncheck.com/advisories/avideo-unauthenticated-rce-via-predictable-installation-salt)                                                                                                                                                            |
+| CVE-2025-34452                                   | Path Traversal + SSRF in Streama leading to arbitrary file write                                                            | [Blog](https://chocapikk.com/posts/2025/streama-path-traversal-ssrf/) · [VulnCheck](https://www.vulncheck.com/advisories/streama-subtitle-download-path-traversal-and-ssrf-leading-to-arbitrary-file-write)                                                                                                                                           |
+| CVE-2025-34147 to CVE-2025-34152                 | 6 unauth OS command injections in Aitemi M300 Wi-Fi Repeater - remote root. **Exploited in botnet - referenced by CERT-FR** | [Part 1](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/) · [Part 2](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/) · [CERT-FR](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2025-ACT-052/)                                                                                                           |
+| CVE-2025-30007 & CVE-2025-30008                  | Unauth XSS in Vembu BDRSuite                                                                                                | [Blog](https://chocapikk.com/posts/2025/bdrsuite/)                                                                                                                                                                                                                                                                                                    |
+| CVE-2025-2611                                    | ICTBroadcast <= 7.4 - Unauth RCE via cookie injection. **Added to KEV - actively exploited in the wild**                    | [GitHub](https://github.com/Chocapikk/CVE-2025-2611) · [VulnCheck KEV](https://www.vulncheck.com/blog/ictbroadcast-kev)                                                                                                                                                                                                                               |
+| CVE-2025-2609 & CVE-2025-2610                    | Stored XSS in MagnusBilling 7.x (one unauthenticated)                                                                       | [Blog](https://chocapikk.com/posts/2025/magnusbilling) · [VulnCheck](https://vulncheck.com/advisories/magnusbilling-logs-xss)                                                                                                                                                                                                                         |
+| CVE-2025-2292, CVE-2025-30004 to CVE-2025-30006  | Authenticated vulns in Xorcom CompletePBX <= 5.2.35                                                                         | [File Disclosure](https://vulncheck.com/advisories/completepbx-file-disclosure) · [Command Injection](https://vulncheck.com/advisories/completepbx-authenticated-command-injection) · [Path Traversal](https://vulncheck.com/advisories/completepbx-path-traversal-file-deletion) · [XSS](https://vulncheck.com/advisories/completepbx-reflected-xss) |
+| CVE-2024-31819                                   | Unauth RCE in AVideo via systemRootPath                                                                                     | [GitHub](https://github.com/Chocapikk/CVE-2024-31819)                                                                                                                                                                                                                                                                                                 |
+| CVE-2024-35373 & CVE-2024-35374                  | 2 unauth RCE in Mocodo via command injection                                                                                | [Blog](https://chocapikk.com/posts/2024/mocodo-vulnerabilities/)                                                                                                                                                                                                                                                                                      |
+| CVE-2024-30920 to CVE-2024-30929, CVE-2024-31818 | Research and exploitation in DerbyNet                                                                                       | [GitHub](https://github.com/Chocapikk/derbynet-research)                                                                                                                                                                                                                                                                                              |
+| CVE-2024-22899 to CVE-2024-22903, CVE-2024-25228 | Exploit chain in Vinchin Backup & Recovery                                                                                  | [GitHub](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                                                                                                                                                                                                                                           |
+| CVE-2024-3032                                    | Themify Builder < 7.5.8 - Open Redirect                                                                                     | [WPScan](https://wpscan.com/vulnerability/d130a60c-c36b-4994-9b0e-e52f7f99387/)                                                                                                                                                                                                                                                                       |
+| CVE-2023-50917                                   | RCE in MajorDoMo                                                                                                            | [GitHub](https://github.com/Chocapikk/CVE-2023-50917)                                                                                                                                                                                                                                                                                                 |
 
 ---
 
-<details open>
-  <summary><b>🚨 CVE Contributions</b></summary>
+### Tools
 
-  | CVE Identifier                                                    | Description                                          | Links                                                                                                                                     |
-  |-------------------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-  | 🔒 CVE-2026-28515 to CVE-2026-28517                              | 3 chained vulnerabilities in openDCIM: missing authorization + SQL injection + OS command injection = unauthenticated RCE on Docker deployments | [Blog](https://chocapikk.com/posts/2026/opendcim-sqli-to-rce/) · [Exploit](https://github.com/Chocapikk/opendcim-exploit) |
-  | 🔒 CVE-2026-27743 to CVE-2026-27747                              | 5 vulnerabilities in SPIP plugins: 2 SQL injections, 2 RCE (PHP code injection), 1 reflected XSS across referer_spam, tickets, interface_traduction_objets, and jeux | [Blog](https://chocapikk.com/posts/2026/spip-plugins-vulnerabilities/) · [SPIP](https://blog.spip.net/Mise-a-jour-de-securite-sortie-de-SPIP-4-4-10.html?var_mode=calcul) |
-  | 🔒 CVE-2026-27174 to CVE-2026-27181                              | 8 vulnerabilities in MajorDoMo: 3 critical RCE (eval injection, command injection, supply chain), SQL injection, 3 XSS (1 reflected, 2 stored), unauthorized module uninstall | [Blog](https://chocapikk.com/posts/2026/majordomo-revisited/) |
-  | 🔒 CVE-2026-26220                                                | Unauthenticated RCE via Pickle Deserialization in LightLLM WebSocket endpoints | [Blog](https://chocapikk.com/posts/2026/lightllm-pickle-rce/) |
-  | 🔒 CVE-2026-26215                                                | Unauthenticated RCE via Pickle Deserialization in manga-image-translator with nonce bypass | [Blog](https://chocapikk.com/posts/2026/manga-image-translator-pickle-rce/) · [VulnCheck](https://www.vulncheck.com/advisories/manga-image-translator-shared-api-unsafe-deserialization-rce) |
-  | 🔒 CVE-2025-34433, CVE-2025-34441, CVE-2025-34442                | Unauthenticated RCE chain in AVideo via predictable salt bruteforce | [Blog](https://chocapikk.com/posts/2025/avideo-security-vulnerabilities/) · [VulnCheck](https://www.vulncheck.com/advisories/avideo-unauthenticated-rce-via-predictable-installation-salt) |
-  | 🔒 CVE-2025-34452                                                | Path Traversal + SSRF in Streama leading to arbitrary file write | [Blog](https://chocapikk.com/posts/2025/streama-path-traversal-ssrf/) · [VulnCheck](https://www.vulncheck.com/advisories/streama-subtitle-download-path-traversal-and-ssrf-leading-to-arbitrary-file-write) |
-  | 🔒 CVE-2025-34147 to CVE-2025-34152                              | Multiple unauthenticated OS command injection vulnerabilities in the Shenzhen Aitemi M300 Wi-Fi Repeater (MT02). Affects: `extap2g` SSID, WISP-mode `ssid`, WPA2 `key`, PPPoE `user`, PPPoE `passwd`, `time` param in `/protocol.csp?`. Allows remote root code execution within Wi-Fi range. **Exploited in botnet - referenced by CERT-FR** | [Part 1](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/) · [Part 2](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/) · [CERT-FR](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2025-ACT-052/) |
-  | 🔒 CVE-2025-30007 & CVE-2025-30008                               | Unauthenticated XSS in Vembu BDRSuite | [Blog](https://chocapikk.com/posts/2025/bdrsuite/) |
-  | 🔒 CVE-2025-2611                                                 | ICTBroadcast <= 7.4 – Unauthenticated RCE via cookie injection. **Added to KEV - actively exploited in the wild** | [GitHub](https://github.com/Chocapikk/CVE-2025-2611) · [VulnCheck KEV](https://www.vulncheck.com/blog/ictbroadcast-kev) |
-  | 🔒 CVE-2025-2609 & CVE-2025-2610                                  | Stored XSS in MagnusBilling 7.x (one unauthenticated) | [Blog](https://chocapikk.com/posts/2025/magnusbilling) · [VulnCheck](https://vulncheck.com/advisories/magnusbilling-logs-xss)              |
-  | 🔒 CVE-2025-2292, CVE-2025-30004, CVE-2025-30005 & CVE-2025-30006 | Authenticated vulnerabilities in Xorcom CompletePBX ≤ 5.2.35 | [File Disclosure](https://vulncheck.com/advisories/completepbx-file-disclosure) · [Command Injection](https://vulncheck.com/advisories/completepbx-authenticated-command-injection) · [Path Traversal](https://vulncheck.com/advisories/completepbx-path-traversal-file-deletion) · [Reflected XSS](https://vulncheck.com/advisories/completepbx-reflected-xss) |
-  | 🔒 CVE-2024-31819                                                 | Unauthenticated RCE in WWBN AVideo via `systemRootPath` | [GitHub](https://github.com/Chocapikk/CVE-2024-31819)                                                                                     |
-  | 🔒 CVE-2024-35373 & CVE-2024-35374                                | 2 unauthenticated RCE in Mocodo via command injection in generate.php and rewrite.php | [Blog](https://chocapikk.com/posts/2024/mocodo-vulnerabilities/) |
-  | 🔒 CVE-2024-30920 to CVE-2024-30929, CVE-2024-31818               | Research and exploitation in DerbyNet                | [GitHub](https://github.com/Chocapikk/derbynet-research)                                                                                  |
-  | 🔒 CVE-2024-22899 to CVE-2024-22903, CVE-2024-25228               | Exploit chain in Vinchin Backup & Recovery           | [GitHub](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                               |
-  | 🔒 CVE-2024-3032                                                  | Themify Builder < 7.5.8 – Open Redirect              | [WPScan](https://wpscan.com/vulnerability/d130a60c-c36b-4994-9b0e-e52f7f99387/)                                                           |
-  | 🔒 CVE-2023-50917                                                 | Remote Code Execution in MajorDoMo                  | [GitHub](https://github.com/Chocapikk/CVE-2023-50917)                                                                                     |
-
-</details>
+| Tool                                                                          | Description                                                   |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [pik](https://github.com/Chocapikk/pik)                                       | Exploit framework & SDK for Go                                |
+| [wpprobe](https://github.com/Chocapikk/wpprobe)                               | Fast WordPress plugin enumeration (800+ stars, in Kali Linux) |
+| [LFIHunt](https://github.com/Chocapikk/LFIHunt)                               | Scan & exploit Local File Inclusion                           |
+| [msf-exploit-collection](https://github.com/Chocapikk/msf-exploit-collection) | All my Metasploit modules in one place                        |
 
 ---
 
-<details>
-  <summary><b>🧰 Skills & Languages</b></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,lua,php,ruby,c,bash,css,docker,flask,go,html,js,mysql,nginx,linux,git,github,vscode&perline=9" alt="Skills & Languages"/>
-  </p>
-</details>
+### Hall of Fame
 
-<details>
-  <summary><b>📚 Repositories</b></summary>
-  <table>
-    <thead>
-      <tr>
-        <th align="left">Tool</th>
-        <th align="left">Description</th>
-        <th align="left">Link</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>WPProbe</strong></td>
-        <td>Fast WordPress plugin enumeration</td>
-        <td><a href="https://github.com/Chocapikk/wpprobe">GitHub</a></td>
-      </tr>
-      <tr>
-        <td><strong>LFIHunt</strong></td>
-        <td>Scan &amp; exploit Local File Inclusion (LFI)</td>
-        <td><a href="https://github.com/Chocapikk/LFIHunt">GitHub</a></td>
-      </tr>
-      <tr>
-        <td><strong>LeakPy</strong></td>
-        <td>Query LeakIX.net API via Python</td>
-        <td><a href="https://github.com/Chocapikk/LeakPy">GitHub</a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
-<details>
-  <summary><b>🏆 Hall Of Fame</b></summary>
-
-  <div align="center">
-    <a href="https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme"><img src="https://img.shields.io/badge/2023-Ferrari-FF2800?style=for-the-badge&logo=ferrari&logoColor=white" alt="2023 – Ferrari"/></a>
-    <a href="https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html"><img src="https://img.shields.io/badge/2024-Siemens-0077C8?style=for-the-badge&logo=siemens&logoColor=white" alt="2024 – Siemens"/></a>
-    <a href="https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html"><img src="https://img.shields.io/badge/2024-Philips-0E5EF7?style=for-the-badge&logo=philips&logoColor=white" alt="2024 – Philips"/></a>
-    <a href="https://security.wikimedia.org/hall-of-fame/"><img src="https://img.shields.io/badge/2024-Wikimedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="2024 – Wikimedia"/></a>
-  </div>
-
-</details>
-
-<details>
-  <summary><b>🚨 Exploit Development & PoC</b></summary>
-
-  *All PoCs and Metasploit modules consolidated in:*  
-  [Chocapikk/msf-exploit-collection](https://github.com/Chocapikk/msf-exploit-collection)
-
-</details>
-
-<details>
-  <summary><b>☁️ LeakIX</b></summary>
-
-- Security Engineer  
-- Notable finding: Massive PSaux ransomware attack affecting 22,000 CyberPanel instances ([BleepingComputer](https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/))  
-- Follow on Twitter: [@leak_ix](https://twitter.com/leak_ix)
-
-  <p align="center">
-    <img src="https://leakix.net/public/img/logoleakix-v2.png" alt="LeakIX" width="500px">
-  </p>
-
-</details>
-
----
-
-<p align="center">
-  <img src="https://github-readme-profile-alpha.vercel.app/api?username=Chocapikk&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
----
-
-<details open>
-  <summary><b>🎶 Spotify</b></summary>
-
-  <p align="center">
-    <i>🎧 Warning: May contain questionable bangers and guilty pleasures.</i><br>
-    <i>🔓 All my work was done while vibing to tracker, synthwave, tribe / hardtek / frenchcore & video game music. It's here for a reason.</i>
-  </p>
-
-  <p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oo9aiy0bxg2zdatiwj3enp2pa&count=6" alt="Spotify">
-  </p>
-
-</details>
-
----
-
-> [!CAUTION]  
-> ⚠️ **Disclaimer**  
-> Please use the information and exploits provided in my repositories for educational purposes and responsible disclosure only. I am not responsible for any misuse or damage caused by using these tools, scripts, or exploits.
+[Ferrari](https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme) · [Siemens](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) · [Philips](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html) · [Wikimedia](https://security.wikimedia.org/hall-of-fame/)
