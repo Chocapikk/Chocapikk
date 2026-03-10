@@ -8,7 +8,7 @@
 
 ### Highlights
 
-- **CVE-2025-2611** - ICTBroadcast unauth RCE via cookie injection - **Added to CISA KEV** ([writeup](https://github.com/Chocapikk/CVE-2025-2611) · [KEV](https://www.vulncheck.com/blog/ictbroadcast-kev))
+- **CVE-2025-2611** - ICTBroadcast unauth RCE via cookie injection - **Added to VulnCheck KEV** ([writeup](https://github.com/Chocapikk/CVE-2025-2611) · [KEV](https://www.vulncheck.com/blog/ictbroadcast-kev))
 - **CVE-2025-34147 to 34152** - 6 unauth command injections in Aitemi M300 WiFi Repeater - **Referenced by CERT-FR** ([writeup](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/) · [CERT-FR](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2025-ACT-052/))
 - **CVE-2026-28515 to 28517** - 3 chained vulns in openDCIM: missing auth + SQLi + command injection = unauth RCE ([writeup](https://chocapikk.com/posts/2026/opendcim-sqli-to-rce/))
 - **CVE-2026-27174 to 27181** - 8 vulns in MajorDoMo: 3 critical RCE, SQLi, 3 XSS ([writeup](https://chocapikk.com/posts/2026/majordomo-revisited/))
@@ -28,7 +28,7 @@
 | CVE-2025-34452 | Path Traversal + SSRF in Streama | [Blog](https://chocapikk.com/posts/2025/streama-path-traversal-ssrf/) · [VulnCheck](https://www.vulncheck.com/advisories/streama-subtitle-download-path-traversal-and-ssrf-leading-to-arbitrary-file-write) |
 | CVE-2025-34147 to CVE-2025-34152 | 6 unauth command injections in Aitemi M300 - **CERT-FR** | [Part 1](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/) · [Part 2](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/) · [CERT-FR](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2025-ACT-052/) |
 | CVE-2025-30007 & CVE-2025-30008 | Unauth XSS in Vembu BDRSuite | [Blog](https://chocapikk.com/posts/2025/bdrsuite/) |
-| CVE-2025-2611 | ICTBroadcast unauth RCE - **CISA KEV** | [GitHub](https://github.com/Chocapikk/CVE-2025-2611) · [VulnCheck KEV](https://www.vulncheck.com/blog/ictbroadcast-kev) |
+| CVE-2025-2611 | ICTBroadcast unauth RCE - **VulnCheck KEV** | [GitHub](https://github.com/Chocapikk/CVE-2025-2611) · [VulnCheck KEV](https://www.vulncheck.com/blog/ictbroadcast-kev) |
 | CVE-2025-2609 & CVE-2025-2610 | Stored XSS in MagnusBilling | [Blog](https://chocapikk.com/posts/2025/magnusbilling) · [VulnCheck](https://vulncheck.com/advisories/magnusbilling-logs-xss) |
 | CVE-2025-2292, CVE-2025-30004 to CVE-2025-30006 | Auth vulns in Xorcom CompletePBX | [VulnCheck](https://vulncheck.com/advisories/completepbx-file-disclosure) |
 | CVE-2024-31819 | Unauth RCE in AVideo | [GitHub](https://github.com/Chocapikk/CVE-2024-31819) |
