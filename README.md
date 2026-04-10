@@ -11,6 +11,7 @@
 - **CVE-2026-29059** - Windfall: unauth RCE in Windmill & Nextcloud Flow via path traversal + credential leak + PostgreSQL heap dump + Nextcloud AppAPI takeover - **Referenced by CERT-FR & BSI** ([writeup](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) · [toolkit](https://github.com/Chocapikk/Windfall) · [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0244/) · [BSI](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0502))
 - **CVE-2025-2611** - ICTBroadcast unauth RCE via cookie injection - **Added to VulnCheck KEV** ([writeup](https://github.com/Chocapikk/CVE-2025-2611) · [KEV](https://www.vulncheck.com/blog/ictbroadcast-kev))
 - **CVE-2025-34147 to 34152** - 6 unauth command injections in Aitemi M300 WiFi Repeater - **Referenced by CERT-FR** ([writeup](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/) · [CERT-FR](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2025-ACT-052/))
+- **CVE-2026-39912** - Unauth account takeover in Xboard & V2Board via magic link token leak (7000+ instances) ([writeup](https://chocapikk.com/posts/2026/xboard-v2board-account-takeover/) · [exploit](https://github.com/Chocapikk/CVE-2026-39912))
 - **CVE-2026-28515 to 28517** - 3 chained vulns in openDCIM: missing auth + SQLi + command injection = unauth RCE ([writeup](https://chocapikk.com/posts/2026/opendcim-sqli-to-rce/))
 - **CVE-2026-27174 to 27181** - 8 vulns in MajorDoMo: 3 critical RCE, SQLi, 3 XSS ([writeup](https://chocapikk.com/posts/2026/majordomo-revisited/))
 - **CVE-2024-22899 to 22903** - Exploit chain in Vinchin Backup & Recovery ([exploit](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain))
@@ -21,6 +22,7 @@
 | CVE | Description | Links |
 |-----|-------------|-------|
 | CVE-2026-29059 | Windfall: unauth RCE in Windmill & Nextcloud Flow - **CERT-FR** | [Blog](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) · [Toolkit](https://github.com/Chocapikk/Windfall) · [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0244/) |
+| CVE-2026-39912 | Unauth account takeover in Xboard & V2Board | [Blog](https://chocapikk.com/posts/2026/xboard-v2board-account-takeover/) · [Exploit](https://github.com/Chocapikk/CVE-2026-39912) |
 | CVE-2026-28515 to CVE-2026-28517 | 3 chained vulns in openDCIM: unauth RCE on Docker | [Blog](https://chocapikk.com/posts/2026/opendcim-sqli-to-rce/) · [Exploit](https://github.com/Chocapikk/opendcim-exploit) |
 | CVE-2026-27743 to CVE-2026-27747 | 5 vulns in SPIP plugins: 2 SQLi, 2 RCE, 1 XSS | [Blog](https://chocapikk.com/posts/2026/spip-plugins-vulnerabilities/) |
 | CVE-2026-27174 to CVE-2026-27181 | 8 vulns in MajorDoMo: 3 RCE, SQLi, 3 XSS | [Blog](https://chocapikk.com/posts/2026/majordomo-revisited/) |
