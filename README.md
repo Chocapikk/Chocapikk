@@ -48,6 +48,7 @@
 
 ### Tools
 
+- [**cewlai**](https://github.com/Chocapikk/cewlai) - AI-powered wordlist generator (CeWL + CUPP + LLM in one binary)
 - [**pik**](https://github.com/Chocapikk/pik) - Exploit framework & SDK for Go
 - [**pgread**](https://github.com/Chocapikk/pgread) - Dump PostgreSQL data from heap files without credentials
 - [**wpprobe**](https://github.com/Chocapikk/wpprobe) - Fast WordPress plugin enumeration (800+ stars, in Kali Linux)
