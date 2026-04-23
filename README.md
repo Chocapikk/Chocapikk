@@ -26,6 +26,8 @@
 | CVE-2026-28515 to CVE-2026-28517 | 3 chained vulns in openDCIM: unauth RCE on Docker | [Blog](https://chocapikk.com/posts/2026/opendcim-sqli-to-rce/) · [Exploit](https://github.com/Chocapikk/opendcim-exploit) |
 | CVE-2026-27743 to CVE-2026-27747 | 5 vulns in SPIP plugins: 2 SQLi, 2 RCE, 1 XSS | [Blog](https://chocapikk.com/posts/2026/spip-plugins-vulnerabilities/) |
 | CVE-2026-27174 to CVE-2026-27181 | 8 vulns in MajorDoMo: 3 RCE, SQLi, 3 XSS | [Blog](https://chocapikk.com/posts/2026/majordomo-revisited/) |
+| CVE-2026-25874 | Unauth RCE via Pickle in HuggingFace LeRobot (21.5k stars) | [Blog](https://chocapikk.com/posts/2026/lerobot-pickle-rce/) |
+| CVE-2026-26210 | Unauth RCE via Pickle in KTransformers (16.5k stars) | [Blog](https://chocapikk.com/posts/2026/ktransformers-pickle-rce/) · [Fix PR](https://github.com/kvcache-ai/ktransformers/pull/1944) |
 | CVE-2026-26220 | Unauth RCE via Pickle in LightLLM | [Blog](https://chocapikk.com/posts/2026/lightllm-pickle-rce/) |
 | CVE-2026-26215 | Unauth RCE via Pickle in manga-image-translator | [Blog](https://chocapikk.com/posts/2026/manga-image-translator-pickle-rce/) · [VulnCheck](https://www.vulncheck.com/advisories/manga-image-translator-shared-api-unsafe-deserialization-rce) |
 | CVE-2025-34433, CVE-2025-34441, CVE-2025-34442 | Unauth RCE chain in AVideo | [Blog](https://chocapikk.com/posts/2025/avideo-security-vulnerabilities/) · [VulnCheck](https://www.vulncheck.com/advisories/avideo-unauthenticated-rce-via-predictable-installation-salt) |
