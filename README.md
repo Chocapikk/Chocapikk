@@ -21,17 +21,22 @@
 
 | CVE | Description | Links |
 |-----|-------------|-------|
-| CVE-2026-29059 | Windfall: unauth RCE in Windmill & Nextcloud Flow - **CERT-FR** | [Blog](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) · [Toolkit](https://github.com/Chocapikk/Windfall) · [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0244/) |
+| CVE-2026-29059 | Windfall: unauth path traversal + file read in Windmill & Nextcloud Flow - **CERT-FR** | [Blog](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) · [Toolkit](https://github.com/Chocapikk/Windfall) · [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0244/) |
+| CVE-2026-23696 | Windmill SQLi in folder management → JWT secret leak → token forge → RCE | [Blog](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) |
+| CVE-2026-22683 | Windmill operator role bypass: operators can create/execute scripts despite documentation | [Blog](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) |
 | CVE-2026-39912 | Unauth account takeover in Xboard & V2Board | [Blog](https://chocapikk.com/posts/2026/xboard-v2board-account-takeover/) · [Exploit](https://github.com/Chocapikk/CVE-2026-39912) |
 | CVE-2026-28515 to CVE-2026-28517 | 3 chained vulns in openDCIM: unauth RCE on Docker | [Blog](https://chocapikk.com/posts/2026/opendcim-sqli-to-rce/) · [Exploit](https://github.com/Chocapikk/opendcim-exploit) |
 | CVE-2026-27760 | PHP code injection in OpenCATS installer AJAX endpoint | [Blog](https://chocapikk.com/posts/2026/opencats-installer-rce/) · [VulnCheck](https://www.vulncheck.com/advisories/opencats-php-code-injection-via-installer-ajax-endpoint) |
 | CVE-2026-27743 to CVE-2026-27747 | 5 vulns in SPIP plugins: 2 SQLi, 2 RCE, 1 XSS | [Blog](https://chocapikk.com/posts/2026/spip-plugins-vulnerabilities/) |
 | CVE-2026-27174 to CVE-2026-27181 | 8 vulns in MajorDoMo: 3 RCE, SQLi, 3 XSS | [Blog](https://chocapikk.com/posts/2026/majordomo-revisited/) |
 | CVE-2026-25874 | Unauth RCE via Pickle in HuggingFace LeRobot (21.5k stars) | [Blog](https://chocapikk.com/posts/2026/lerobot-pickle-rce/) |
+| CVE-2026-25873 | Unauth RCE via Pickle in OmniGen2 reward server | [Blog](https://chocapikk.com/posts/2026/omnigen2-pickle-rce/) |
+| CVE-2026-29023 | Hard-coded API key in Keygraph Shannon router | [Blog](https://chocapikk.com/posts/2026/gen3c-pickle-rce/) |
 | CVE-2026-26210 | Unauth RCE via Pickle in KTransformers (16.5k stars) | [Blog](https://chocapikk.com/posts/2026/ktransformers-pickle-rce/) · [Fix PR](https://github.com/kvcache-ai/ktransformers/pull/1944) |
 | CVE-2026-26220 | Unauth RCE via Pickle in LightLLM | [Blog](https://chocapikk.com/posts/2026/lightllm-pickle-rce/) |
 | CVE-2026-26215 | Unauth RCE via Pickle in manga-image-translator | [Blog](https://chocapikk.com/posts/2026/manga-image-translator-pickle-rce/) · [VulnCheck](https://www.vulncheck.com/advisories/manga-image-translator-shared-api-unsafe-deserialization-rce) |
-| CVE-2025-34433, CVE-2025-34441, CVE-2025-34442 | Unauth RCE chain in AVideo | [Blog](https://chocapikk.com/posts/2025/avideo-security-vulnerabilities/) · [VulnCheck](https://www.vulncheck.com/advisories/avideo-unauthenticated-rce-via-predictable-installation-salt) |
+| CVE-2025-34433 | Unauth RCE in AVideo via predictable installation salt | [Blog](https://chocapikk.com/posts/2025/avideo-security-vulnerabilities/) · [VulnCheck](https://www.vulncheck.com/advisories/avideo-unauthenticated-rce-via-predictable-installation-salt) |
+| CVE-2025-34434 to CVE-2025-34442 | 9 additional vulns in AVideo: IDORs, open redirects, info disclosure | [Blog](https://chocapikk.com/posts/2025/avideo-security-vulnerabilities/) |
 | CVE-2025-34452 | Path Traversal + SSRF in Streama | [Blog](https://chocapikk.com/posts/2025/streama-path-traversal-ssrf/) · [VulnCheck](https://www.vulncheck.com/advisories/streama-subtitle-download-path-traversal-and-ssrf-leading-to-arbitrary-file-write) |
 | CVE-2025-34147 to CVE-2025-34152 | 6 unauth command injections in Aitemi M300 - **CERT-FR** | [Part 1](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root/) · [Part 2](https://chocapikk.com/posts/2025/when-a-wifi-name-gives-you-root-part-two/) · [CERT-FR](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2025-ACT-052/) |
 | CVE-2025-30007 & CVE-2025-30008 | Unauth XSS in Vembu BDRSuite | [Blog](https://chocapikk.com/posts/2025/bdrsuite/) |
