@@ -8,6 +8,7 @@
 
 ### Highlights
 
+- **CVE-2026-29514** - NetBox: low-priv RCE via Jinja2 SandboxedEnvironment bypass through ExportTemplate `environment_params` ([writeup](https://chocapikk.com/posts/2026/netbox-export-template-rce/) · [PR](https://github.com/netbox-community/netbox/pull/22078))
 - **CVE-2026-29059** - Windfall: unauth RCE in Windmill & Nextcloud Flow via path traversal + credential leak + PostgreSQL heap dump + Nextcloud AppAPI takeover - **Referenced by CERT-FR & BSI** ([writeup](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) · [toolkit](https://github.com/Chocapikk/Windfall) · [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0244/) · [BSI](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0502))
 - **CVE-2026-39912** - Unauth account takeover in Xboard & V2Board via magic link token leak (7000+ instances) ([writeup](https://chocapikk.com/posts/2026/xboard-v2board-account-takeover/) · [exploit](https://github.com/Chocapikk/CVE-2026-39912))
 - **CVE-2026-28515 to 28517** - 3 chained vulns in openDCIM: missing auth + SQLi + command injection = unauth RCE ([writeup](https://chocapikk.com/posts/2026/opendcim-sqli-to-rce/))
@@ -21,6 +22,7 @@
 
 | CVE | Description | Links |
 |-----|-------------|-------|
+| CVE-2026-29514 | NetBox: low-priv RCE via Jinja2 SandboxedEnvironment bypass in ExportTemplate | [Blog](https://chocapikk.com/posts/2026/netbox-export-template-rce/) · [PR](https://github.com/netbox-community/netbox/pull/22078) |
 | CVE-2026-29059 | Windfall: unauth path traversal + file read in Windmill & Nextcloud Flow - **CERT-FR** | [Blog](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) · [Toolkit](https://github.com/Chocapikk/Windfall) · [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0244/) |
 | CVE-2026-23696 | Windmill SQLi in folder management → JWT secret leak → token forge → RCE | [Blog](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) |
 | CVE-2026-22683 | Windmill operator role bypass: operators can create/execute scripts despite documentation | [Blog](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) |
