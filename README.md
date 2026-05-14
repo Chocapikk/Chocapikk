@@ -1,6 +1,6 @@
 # Valentin Lobstein
 
-**Security Researcher & Exploit Developer @ [VulnCheck](https://vulncheck.com)**
+**Security Researcher & Exploit Developer @ [VulnCheck](https://vulncheck.com)** ([@vlobstein-vc](https://github.com/vlobstein-vc))
 
 [Blog](https://chocapikk.com) · [Twitter](https://twitter.com/Chocapikk_) · [LinkedIn](https://www.linkedin.com/in/valentin-l1337/) · [Ko-fi](https://ko-fi.com/Chocapikk)
 
