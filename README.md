@@ -8,8 +8,8 @@
 
 ### Highlights
 
-- **CVE-2026-28496** - FOSSBilling: unauthenticated RCE chaining an auth bypass with an unsandboxed Twig SSTI, escalated via `getDi()` DI-container exposure (PDO access, cache poisoning, malicious extension install) ([VulnCheck](https://www.vulncheck.com/blog/fossbilling-auth-bypass-ssti-rce) · [Advisory](https://github.com/FOSSBilling/FOSSBilling/security/advisories/GHSA-57mv-jm88-66jc))
-- **CVE-2026-53805** - NVIDIA SIL GEN3C: unauthenticated RCE via Python pickle deserialization in the inference API ([VulnCheck](https://www.vulncheck.com/advisories/nvidia-sil-gen3c-unauthenticated-rce-via-pickle-deserialization-in-inference-api))
+- **CVE-2026-28496** - FOSSBilling: unauthenticated RCE chaining an auth bypass with an unsandboxed Twig SSTI, escalated via `getDi()` DI-container exposure (PDO access, cache poisoning, malicious extension install) - **Added to VulnCheck KEV (exploited in the wild)** ([VulnCheck](https://www.vulncheck.com/blog/fossbilling-auth-bypass-ssti-rce) · [Advisory](https://github.com/FOSSBilling/FOSSBilling/security/advisories/GHSA-57mv-jm88-66jc))
+- **CVE-2026-53805** - NVIDIA SIL GEN3C: unauthenticated RCE via Python pickle deserialization in the inference API ([VulnCheck](https://www.vulncheck.com/blog/nvidia-gen3c-unauth-pickle-rce))
 - **CVE-2026-29514** - NetBox: low-priv RCE via Jinja2 SandboxedEnvironment bypass through ExportTemplate `environment_params` ([writeup](https://chocapikk.com/posts/2026/netbox-export-template-rce/) · [PR](https://github.com/netbox-community/netbox/pull/22078))
 - **CVE-2026-29059** - Windfall: unauth RCE in Windmill & Nextcloud Flow via path traversal + credential leak + PostgreSQL heap dump + Nextcloud AppAPI takeover - **Referenced by CERT-FR & BSI** ([writeup](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) · [toolkit](https://github.com/Chocapikk/Windfall) · [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0244/) · [BSI](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0502))
 - **CVE-2026-39912** - Unauth account takeover in Xboard & V2Board via magic link token leak (7000+ instances) ([writeup](https://chocapikk.com/posts/2026/xboard-v2board-account-takeover/) · [exploit](https://github.com/Chocapikk/CVE-2026-39912))
@@ -25,8 +25,8 @@
 
 | CVE | Description | Links |
 |-----|-------------|-------|
-| CVE-2026-28496 | FOSSBilling: SSTI → RCE via getDi() DI container (PDO access) in unsandboxed Twig rendering | [VulnCheck](https://www.vulncheck.com/blog/fossbilling-auth-bypass-ssti-rce) · [Advisory](https://github.com/FOSSBilling/FOSSBilling/security/advisories/GHSA-57mv-jm88-66jc) |
-| CVE-2026-53805 | NVIDIA SIL GEN3C: unauth RCE via pickle.loads() deserialization in inference API | [VulnCheck](https://www.vulncheck.com/advisories/nvidia-sil-gen3c-unauthenticated-rce-via-pickle-deserialization-in-inference-api) |
+| CVE-2026-28496 | FOSSBilling: SSTI → RCE via getDi() DI container (PDO access) in unsandboxed Twig rendering - **VulnCheck KEV** | [VulnCheck](https://www.vulncheck.com/blog/fossbilling-auth-bypass-ssti-rce) · [Advisory](https://github.com/FOSSBilling/FOSSBilling/security/advisories/GHSA-57mv-jm88-66jc) |
+| CVE-2026-53805 | NVIDIA SIL GEN3C: unauth RCE via pickle.loads() deserialization in inference API | [VulnCheck](https://www.vulncheck.com/blog/nvidia-gen3c-unauth-pickle-rce) |
 | CVE-2026-29514 | NetBox: low-priv RCE via Jinja2 SandboxedEnvironment bypass in ExportTemplate | [Blog](https://chocapikk.com/posts/2026/netbox-export-template-rce/) · [PR](https://github.com/netbox-community/netbox/pull/22078) |
 | CVE-2026-29059 | Windfall: unauth path traversal + file read in Windmill & Nextcloud Flow - **CERT-FR** | [Blog](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) · [Toolkit](https://github.com/Chocapikk/Windfall) · [CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0244/) |
 | CVE-2026-23696 | Windmill SQLi in folder management → JWT secret leak → token forge → RCE | [Blog](https://chocapikk.com/posts/2026/windfall-nextcloud-flow-windmill-rce/) |
