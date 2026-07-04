@@ -65,7 +65,7 @@
 
 - [**cewlai**](https://github.com/Chocapikk/cewlai) - AI-powered wordlist generator (CeWL + CUPP + LLM in one binary)
 - [**pgread**](https://github.com/Chocapikk/pgread) - Dump PostgreSQL data from heap files without credentials
-- [**wpprobe**](https://github.com/Chocapikk/wpprobe) - Fast WordPress plugin enumeration (800+ stars, in Kali Linux)
+- [**wpprobe**](https://github.com/Chocapikk/wpprobe) - Fast WordPress plugin enumeration (900+ stars, in Kali Linux)
 - [**LFIHunt**](https://github.com/Chocapikk/LFIHunt) - Scan & exploit Local File Inclusion
 - [**msf-exploit-collection**](https://github.com/Chocapikk/msf-exploit-collection) - All my Metasploit modules in one place
 
