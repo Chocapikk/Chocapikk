@@ -82,4 +82,4 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 ### Hall of Fame
 
-[Ferrari](https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme) · [Siemens](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) · [Philips](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html) · [Wikimedia](https://security.wikimedia.org/hall-of-fame/)
+[Ferrari (2023)](https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme) · [Siemens (2024)](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) · [Philips (2024)](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html) · [Wikimedia (2024)](https://security.wikimedia.org/hall-of-fame/)
