@@ -8,7 +8,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 ---
 
-`78 CVEs` · `5 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
+`79 CVEs` · `5 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
 
 ---
 
