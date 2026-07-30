@@ -8,7 +8,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 ---
 
-`79 CVEs` · `6 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
+`80 CVEs` · `6 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
 
 ---
 
@@ -16,6 +16,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 | CVE                | Target                           | Impact                                  | Ref                                                                                                                                                                                                                                      |
 | ------------------ | -------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-65883     | Aimy Captcha-Less Form Guard     | Unauth RCE via PHP object injection + XOR keystream recovery | [VulnCheck](https://www.vulncheck.com/blog/aimy-captcha-less-form-guard-object-injection) |
 | CVE-2026-60105     | Monsta FTP                       | Unauth SSRF via IPv4-mapped IPv6 blocklist bypass | [VulnCheck](https://www.vulncheck.com/blog/monsta-ftp-ssrf-ipv6-blocklist-bypass) · [Blog](https://chocapikk.com/posts/2026/monstaftp-ssrf-ipv6-blocklist-bypass/) |
 | CVE-2026-28496     | FOSSBilling                      | Dup SSTI escalated to full RCE via getDi() | [Blog](https://www.vulncheck.com/blog/fossbilling-auth-bypass-ssti-rce) · [Advisory](https://github.com/FOSSBilling/FOSSBilling/security/advisories/GHSA-57mv-jm88-66jc)                                                                 |
 | CVE-2026-53805     | NVIDIA SIL GEN3C                 | Unauth RCE via pickle deserialization   | [VulnCheck](https://www.vulncheck.com/blog/nvidia-gen3c-unauth-pickle-rce)                                                                                                                                                               |
@@ -29,10 +30,11 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 | CVE-2024-22899..03 | Vinchin Backup & Recovery        | Exploit chain                           | [Exploit](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                                                                                                                             |
 
 <details>
-<summary><b>All CVEs (78)</b></summary>
+<summary><b>All CVEs (80)</b></summary>
 
 | CVE                                              | Description                                                                                                      | Links                                                                                                                                                                                                                                       |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-65883                                   | Aimy Captcha-Less Form Guard: unauth PHP object injection via XOR keystream recovery, RCE on Joomla 3.9-5.2.1   | [VulnCheck](https://www.vulncheck.com/blog/aimy-captcha-less-form-guard-object-injection)                                                                                                                                                   |
 | CVE-2026-60105                                   | Monsta FTP: unauth SSRF via IPv4-mapped IPv6 (`::ffff:`) blocklist bypass                                        | [VulnCheck](https://www.vulncheck.com/blog/monsta-ftp-ssrf-ipv6-blocklist-bypass) · [Blog](https://chocapikk.com/posts/2026/monstaftp-ssrf-ipv6-blocklist-bypass/)                                                                          |
 | CVE-2026-28496                                   | FOSSBilling: SSTI to RCE via getDi() DI container (PDO access) in unsandboxed Twig rendering - **VulnCheck KEV** | [VulnCheck](https://www.vulncheck.com/blog/fossbilling-auth-bypass-ssti-rce) · [Advisory](https://github.com/FOSSBilling/FOSSBilling/security/advisories/GHSA-57mv-jm88-66jc)                                                               |
 | CVE-2026-53805                                   | NVIDIA SIL GEN3C: unauth RCE via pickle.loads() deserialization in inference API                                 | [VulnCheck](https://www.vulncheck.com/blog/nvidia-gen3c-unauth-pickle-rce)                                                                                                                                                                  |
