@@ -8,7 +8,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 ---
 
-`80 CVEs` · `6 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
+`82 CVEs` · `6 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
 
 ---
 
@@ -30,10 +30,11 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 | CVE-2024-22899..03 | Vinchin Backup & Recovery        | Exploit chain                           | [Exploit](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                                                                                                                             |
 
 <details>
-<summary><b>All CVEs (80)</b></summary>
+<summary><b>All CVEs (82)</b></summary>
 
 | CVE                                              | Description                                                                                                      | Links                                                                                                                                                                                                                                       |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-66732 & CVE-2026-66733                  | Sonic 3 A.I.R.: missing source address validation + unbounded memory allocation DoS                               | [Advisory](https://www.vulncheck.com/advisories/sonic-3-a-i-r-missing-source-address-validation-in-connectionmanager)                                                                                                                       |
 | CVE-2026-65883                                   | Aimy Captcha-Less Form Guard (Joomla): unauth PHP object injection via XOR keystream recovery, RCE on Joomla 3.9-5.2.1 | [VulnCheck](https://www.vulncheck.com/blog/aimy-captcha-less-form-guard-object-injection)                                                                                                                                                   |
 | CVE-2026-60105                                   | Monsta FTP: unauth SSRF via IPv4-mapped IPv6 (`::ffff:`) blocklist bypass                                        | [VulnCheck](https://www.vulncheck.com/blog/monsta-ftp-ssrf-ipv6-blocklist-bypass) · [Blog](https://chocapikk.com/posts/2026/monstaftp-ssrf-ipv6-blocklist-bypass/)                                                                          |
 | CVE-2026-28496                                   | FOSSBilling: SSTI to RCE via getDi() DI container (PDO access) in unsandboxed Twig rendering - **VulnCheck KEV** | [VulnCheck](https://www.vulncheck.com/blog/fossbilling-auth-bypass-ssti-rce) · [Advisory](https://github.com/FOSSBilling/FOSSBilling/security/advisories/GHSA-57mv-jm88-66jc)                                                               |
