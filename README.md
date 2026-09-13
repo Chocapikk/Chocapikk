@@ -8,7 +8,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 ---
 
-`84 CVEs` · `12 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
+`88 CVEs` · `12 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
 
 ---
 
@@ -30,10 +30,14 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 | CVE-2024-22899..03 | Vinchin Backup & Recovery        | Exploit chain                           | [Exploit](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                                                                                                                             |
 
 <details>
-<summary><b>All CVEs (84)</b></summary>
+<summary><b>All CVEs (88)</b></summary>
 
 | CVE                                              | Description                                                                                                      | Links                                                                                                                                                                                                                                       |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-73693                                   | FileRun (<2026.3.0): auth OS command injection RCE via shell metacharacters in filenames reaching ImageMagick montage (PhotoProofSheet)          | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-73693)                                                                                                                                                                                      |
+| CVE-2026-73694                                   | FileRun (<2026.3.0): OS command injection RCE via no-op escapeshellcmd() redefinition in CLI.php, superuser settings-test endpoint to exec()      | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-73694)                                                                                                                                                                                      |
+| CVE-2026-73698                                   | FileRun (<2026.3.0): delegated-admin SQL injection via array description param (getValuesString), stacked queries escalate to superuser           | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-73698)                                                                                                                                                                                      |
+| CVE-2026-73699                                   | FileRun (<2026.3.0): PHP object injection via misconfigured unserialize() in Perms::getPerms(), gadget chain to arbitrary file write (webshell)   | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-73699)                                                                                                                                                                                      |
 | CVE-2026-73373                                   | Joomla! Core: unrestricted upload of SHTML files leading to code execution (1.0.0-5.4.7, 6.0.0-6.1.2)             | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-73373)                                                                                                                                                                                      |
 | CVE-2026-14863                                   | FileRun: auth RCE via OS command injection in thumbnail generation (ffmpeg/ImageMagick)                           | [Advisory](https://www.vulncheck.com/advisories/filerun-rce-via-thumbnail-generation-command-injection) · [Blog](https://chocapikk.com/posts/2026/filerun-thumbnail-command-injection-rce/)                                                  |
 | CVE-2026-66732 & CVE-2026-66733                  | Sonic 3 A.I.R.: missing source address validation + unbounded memory allocation DoS                               | [Advisory](https://www.vulncheck.com/advisories/sonic-3-a-i-r-missing-source-address-validation-in-connectionmanager)                                                                                                                       |
