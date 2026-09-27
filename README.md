@@ -2,7 +2,7 @@
 
 **Security Researcher & Exploit Developer @ [VulnCheck](https://vulncheck.com)** ([@vlobstein-vc](https://github.com/vlobstein-vc))
 
-Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I forget to breathe.
+Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I forget to breathe. Fueled by Monoprix runs. 🎀
 
 [Blog](https://chocapikk.com) · [Twitter](https://twitter.com/Chocapikk_) · [LinkedIn](https://www.linkedin.com/in/valentin-l1337/) · [Ko-fi](https://ko-fi.com/Chocapikk)
 
