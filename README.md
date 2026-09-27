@@ -8,7 +8,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 ---
 
-`88 CVEs` · `12 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
+`91 CVEs` · `12 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
 
 ---
 
@@ -16,6 +16,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 | CVE                | Target                           | Impact                                  | Ref                                                                                                                                                                                                                                      |
 | ------------------ | -------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-43641     | Softaculous Virtualizor          | Unauth root RCE via billing hook (act=login skips the pre-auth guard) | [VulnCheck](https://www.vulncheck.com/blog/virtualizor-billing-hook-unauthenticated-root-rce) · [Blog](https://chocapikk.com/posts/2026/virtualizor-billing-hook-unauthenticated-root-rce/) |
 | CVE-2026-65883     | Aimy Captcha-Less Form Guard (Joomla) | Unauth RCE via PHP object injection + XOR keystream recovery | [VulnCheck](https://www.vulncheck.com/blog/aimy-captcha-less-form-guard-object-injection) · [Blog](https://chocapikk.com/posts/2026/aimy-captcha-less-form-guard-object-injection/) |
 | CVE-2026-60105     | Monsta FTP                       | Unauth SSRF via IPv4-mapped IPv6 blocklist bypass | [VulnCheck](https://www.vulncheck.com/blog/monsta-ftp-ssrf-ipv6-blocklist-bypass) · [Blog](https://chocapikk.com/posts/2026/monstaftp-ssrf-ipv6-blocklist-bypass/) |
 | CVE-2026-28496     | FOSSBilling                      | Dup SSTI escalated to full RCE via getDi() | [VulnCheck](https://www.vulncheck.com/blog/fossbilling-auth-bypass-ssti-rce) · [Blog](https://chocapikk.com/posts/2026/fossbilling-unauth-rce/) · [Advisory](https://github.com/FOSSBilling/FOSSBilling/security/advisories/GHSA-57mv-jm88-66jc) |
@@ -30,10 +31,11 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 | CVE-2024-22899..03 | Vinchin Backup & Recovery        | Exploit chain                           | [Exploit](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                                                                                                                             |
 
 <details>
-<summary><b>All CVEs (88)</b></summary>
+<summary><b>All CVEs (91)</b></summary>
 
 | CVE                                              | Description                                                                                                      | Links                                                                                                                                                                                                                                       |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-43641 to CVE-2026-43643                 | 3 vulns in Softaculous Virtualizor (<3.2.9 patch 9): unauth OS command injection to root via the billing-module hook (act=login bypasses the pre-auth guard), PHP object injection, cross-tenant balance write | [VulnCheck](https://www.vulncheck.com/blog/virtualizor-billing-hook-unauthenticated-root-rce) · [Blog](https://chocapikk.com/posts/2026/virtualizor-billing-hook-unauthenticated-root-rce/)                                              |
 | CVE-2026-73693, 73694, 73698, 73699              | 4 vulns in FileRun (<2026.3.0): 2 auth cmd-injection RCE (ImageMagick montage + escapeshellcmd() no-op), delegated-admin SQLi to superuser, PHP object injection to webshell | [VulnCheck](https://www.vulncheck.com/blog/filerun-delegated-admin-sql-to-object-injection-rce) · [Blog](https://chocapikk.com/posts/2026/filerun-delegated-admin-sql-to-object-injection-rce/)                                              |
 | CVE-2026-73373                                   | Joomla! Core: unrestricted upload of SHTML files leading to code execution (1.0.0-5.4.7, 6.0.0-6.1.2)             | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-73373)                                                                                                                                                                                      |
 | CVE-2026-14863                                   | FileRun: auth RCE via OS command injection in thumbnail generation (ffmpeg/ImageMagick)                           | [Advisory](https://www.vulncheck.com/advisories/filerun-rce-via-thumbnail-generation-command-injection) · [Blog](https://chocapikk.com/posts/2026/filerun-thumbnail-command-injection-rce/)                                                  |
