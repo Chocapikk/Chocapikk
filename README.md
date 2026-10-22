@@ -8,7 +8,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 ---
 
-`94 CVEs` · `12 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
+`95 CVEs` · `12 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
 
 ---
 
@@ -16,6 +16,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 | CVE                | Target                           | Impact                                  | Ref                                                                                                                                                                                                                                      |
 | ------------------ | -------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-89035     | MikroTik RouterOS WebFig         | Session token replay to admin (token not bound to the ECDH session) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-89035) |
 | CVE-2026-49950     | Xorbits xoscar / Xinference      | Unauth RCE via pickle deserialization over the actor socket | [VulnCheck](https://www.vulncheck.com/blog/xorbits-xoscar-unauth-cloudpickle-rce) · [Advisory](https://www.vulncheck.com/advisories/xorbits-xoscar-unauthenticated-deserialization-rce-via-actor-pool) · [Blog](https://chocapikk.com/posts/2026/xorbits-xoscar-unauth-cloudpickle-rce/) |
 | CVE-2026-104085    | SPIP odt2spip plugin             | Auth OS command injection to RCE via uploaded document filename | [VulnCheck](https://www.vulncheck.com/blog/spip-odt2spip-authenticated-command-injection-rce) · [Advisory](https://www.vulncheck.com/advisories/odt2spip-os-command-injection-via-document-filename) · [Blog](https://chocapikk.com/posts/2026/spip-odt2spip-authenticated-command-injection-rce/) |
 | CVE-2026-76570     | JoomCode JCTables (Joomla)       | Unauth SQL read/write to RCE via the front-end CRUD API | [VulnCheck](https://www.vulncheck.com/blog/jctables-unauthenticated-sql-rw-to-rce) · [Blog](https://chocapikk.com/posts/2026/jctables-unauthenticated-sql-rw-to-rce/) |
@@ -34,10 +35,11 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 | CVE-2024-22899..03 | Vinchin Backup & Recovery        | Exploit chain                           | [Exploit](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                                                                                                                             |
 
 <details>
-<summary><b>All CVEs (94)</b></summary>
+<summary><b>All CVEs (95)</b></summary>
 
 | CVE                                              | Description                                                                                                      | Links                                                                                                                                                                                                                                       |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-89035                                   | MikroTik RouterOS (<=7.23.6, 7.24.0-7.24.5): WebFig session token (s2d) is a bearer credential not bound to the ECDH session that issued it, minted by makeSessionKey in libucrypto.so from fixed salts with no channel input, so a captured token replays from a fresh session with new keys and no password for persistent admin access; amplifies CVE-2025-61481 | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-89035) |
 | CVE-2026-49950                                   | Xorbits xoscar (all versions through 0.11.2), the actor/RPC framework under Xinference (~9.3k stars): unauthenticated pickle deserialization RCE via cloudpickle.loads() on raw socket buffers in SocketChannel.recv(), no authentication anywhere in the path | [VulnCheck](https://www.vulncheck.com/blog/xorbits-xoscar-unauth-cloudpickle-rce) · [Advisory](https://www.vulncheck.com/advisories/xorbits-xoscar-unauthenticated-deserialization-rce-via-actor-pool) · [Blog](https://chocapikk.com/posts/2026/xorbits-xoscar-unauth-cloudpickle-rce/)                                                                                                                           |
 | CVE-2026-104085                                  | odt2spip plugin for SPIP (<4.4.0): authenticated OS command injection via the uploaded document filename, RCE as the web-server user during LibreOffice conversion | [VulnCheck](https://www.vulncheck.com/blog/spip-odt2spip-authenticated-command-injection-rce) · [Advisory](https://www.vulncheck.com/advisories/odt2spip-os-command-injection-via-document-filename) · [Blog](https://chocapikk.com/posts/2026/spip-odt2spip-authenticated-command-injection-rce/)                                                                                                                                        |
 | CVE-2026-76570                                   | JoomCode JCTables extension for Joomla (<1.21.1): unauthenticated SQL injection (read and write) in the front-end CRUD API, no token or auth check, chained to remote code execution | [VulnCheck](https://www.vulncheck.com/blog/jctables-unauthenticated-sql-rw-to-rce) · [Blog](https://chocapikk.com/posts/2026/jctables-unauthenticated-sql-rw-to-rce/) |
