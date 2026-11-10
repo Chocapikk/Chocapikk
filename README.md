@@ -8,7 +8,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 ---
 
-`105 CVEs` · `12 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
+`106 CVEs` · `12 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
 
 ---
 
@@ -36,10 +36,11 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 | CVE-2024-22899..03 | Vinchin Backup & Recovery        | Exploit chain                           | [Exploit](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                                                                                                                             |
 
 <details>
-<summary><b>All CVEs (105)</b></summary>
+<summary><b>All CVEs (106)</b></summary>
 
 | CVE                                              | Description                                                                                                      | Links                                                                                                                                                                                                                                       |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-82509                                   | V programming language net.http stdlib (<=0.5.2, before commit 4077484): TLS certificate validation bypass, SSLConnectConfig.validate and FetchConfig.validate default to false so http.get/post/fetch complete TLS handshakes without verifying certificates in the mbedtls and OpenSSL backends, enabling on-path HTTPS interception with expired, self-signed, or wrong-hostname certificates | [Advisory](https://www.vulncheck.com/advisories/v-programming-language-net-http-tls-certificate-validation-bypass) · [GHSA](https://github.com/vlang/v/security/advisories/GHSA-7g66-88pm-6gv6) · [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-82509) |
 | CVE-2026-73695..97, 77876..81, 104080            | 10 CVEs chaining into a precondition-free unauthenticated remote root RCE in Control Web Panel (CWP): execution-after-redirect auth bypass, module-name LFI, and phpini_editor/protected_directory file-write and command injection give user-panel code execution, pivoting into the root-privileged loopback API (missing authentication, OS command injection on /valid_token/, /newpass/ and /restoredatabase/, and root SQL injection) for code execution as root | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-104080) · [VulnCheck](https://www.vulncheck.com/blog/control-web-panel-pre-auth-module-dispatch-rce) |
 | CVE-2026-89035                                   | MikroTik RouterOS (<=7.23.6, 7.24.0-7.24.5): WebFig session token (s2d) is a bearer credential not bound to the ECDH session that issued it, minted by makeSessionKey in libucrypto.so from fixed salts with no channel input, so a captured token replays from a fresh session with new keys and no password for persistent admin access; amplifies CVE-2025-61481 | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-89035) |
 | CVE-2026-49950                                   | Xorbits xoscar (all versions through 0.11.2), the actor/RPC framework under Xinference (~9.3k stars): unauthenticated pickle deserialization RCE via cloudpickle.loads() on raw socket buffers in SocketChannel.recv(), no authentication anywhere in the path | [VulnCheck](https://www.vulncheck.com/blog/xorbits-xoscar-unauth-cloudpickle-rce) · [Advisory](https://www.vulncheck.com/advisories/xorbits-xoscar-unauthenticated-deserialization-rce-via-actor-pool) · [Blog](https://chocapikk.com/posts/2026/xorbits-xoscar-unauth-cloudpickle-rce/)                                                                                                                           |
