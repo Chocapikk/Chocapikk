@@ -8,7 +8,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 ---
 
-`122 CVEs` · `16 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
+`123 CVEs` · `16 on VulnCheck KEV` · `Referenced by CERT-FR & BSI`
 
 ---
 
@@ -16,6 +16,7 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 
 | CVE                | Target                           | Impact                                  | Ref                                                                                                                                                                                                                                      |
 | ------------------ | -------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-107904    | Valor Apps Easy File Uploader (Joomla) | Unauth web-root file upload to RCE where `.phtml` is mapped to PHP | [VulnCheck](https://www.vulncheck.com/blog/easy-file-uploader-unauthenticated-upload-to-rce) |
 | CVE-2026-124002..15 | Copeland XWEB EVO                | 14 vulnerabilities including unauth remote **root** RCE, predictable admin and root credentials, configuration overwrite and account takeover | [VulnCheck](https://www.vulncheck.com/blog/copeland-xweb-evo-unauthenticated-root) |
 | CVE-2026-73695..97, 77876..81, 104080 | Control Web Panel (CWP) | Precondition-free unauth remote **root** RCE chain: user-panel auth bypass + LFI pivot into the root loopback API (OS command injection + SQLi) | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-104080) · [VulnCheck](https://www.vulncheck.com/blog/control-web-panel-pre-auth-module-dispatch-rce) |
 | CVE-2026-124020, 124021 | Control Web Panel (CWP) | Two paths to code execution as the hosting account from one password-recovery code: Host-header reset-link poisoning, and the port 2304 admin API accepting the recovery code as OAuth authorization | [VulnCheck](https://www.vulncheck.com/blog/control-web-panel-recovery-code-rce) |
@@ -38,10 +39,11 @@ Just a guy who likes breaking stuff. Can't stop looking for bugs. Sometimes I fo
 | CVE-2024-22899..03 | Vinchin Backup & Recovery        | Exploit chain                           | [Exploit](https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain)                                                                                                                                                             |
 
 <details>
-<summary><b>All CVEs (122)</b></summary>
+<summary><b>All CVEs (123)</b></summary>
 
 | CVE                                              | Description                                                                                                      | Links                                                                                                                                                                                                                                       |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CVE-2026-107904                                  | Valor Apps Easy File Uploader for Joomla (1.0.0-2.9.6): unauthenticated `.phtml`/GIF polyglot upload to the web root, leading to RCE where `.phtml` is handled by PHP | [VulnCheck](https://www.vulncheck.com/blog/easy-file-uploader-unauthenticated-upload-to-rce) · [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-107904) |
 | CVE-2026-124002 to CVE-2026-124015              | 14 vulnerabilities in Copeland XWEB EVO: unauthenticated remote root command execution, OS command injection, hardcoded and deterministic credentials, authentication bypasses, configuration overwrite and account takeover - **124010 & 124014 on VulnCheck KEV** | [VulnCheck](https://www.vulncheck.com/blog/copeland-xweb-evo-unauthenticated-root) |
 | CVE-2026-82509                                   | V programming language net.http stdlib (<=0.5.2, before commit 4077484): TLS certificate validation bypass, SSLConnectConfig.validate and FetchConfig.validate default to false so http.get/post/fetch complete TLS handshakes without verifying certificates in the mbedtls and OpenSSL backends, enabling on-path HTTPS interception with expired, self-signed, or wrong-hostname certificates | [Advisory](https://www.vulncheck.com/advisories/v-programming-language-net-http-tls-certificate-validation-bypass) · [GHSA](https://github.com/vlang/v/security/advisories/GHSA-7g66-88pm-6gv6) · [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-82509) |
 | CVE-2026-73695..97, 77876..81, 104080            | 10 CVEs chaining into a precondition-free unauthenticated remote root RCE in Control Web Panel (CWP): execution-after-redirect auth bypass, module-name LFI, and phpini_editor/protected_directory file-write and command injection give user-panel code execution, pivoting into the root-privileged loopback API (missing authentication, OS command injection on /valid_token/, /newpass/ and /restoredatabase/, and root SQL injection) for code execution as root | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-104080) · [VulnCheck](https://www.vulncheck.com/blog/control-web-panel-pre-auth-module-dispatch-rce) |
